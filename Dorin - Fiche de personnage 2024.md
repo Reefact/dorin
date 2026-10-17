@@ -140,18 +140,46 @@ Dorin est un **nain des collines du clan Grūnvar**, conformément à sa biograp
 
 ## Classe — Clerc
 
-**Capacités de classe et progression 2024 : à renseigner.** Le Domaine de la Vie appartient au concept du personnage, mais ses capacités seront détaillées au niveau approprié.
+**Référence :** *Manuel des joueurs 2024*, chapitre 3 « Classes », **Clerc**, à partir de la **page 68**.
+
+### Traits de base
+
+- **Caractéristique principale :** Sagesse.
+- **Dé de vie :** d8 par niveau de Clerc.
+- **Maîtrise des jets de sauvegarde :** Sagesse et Charisme.
+- **Maîtrise des armes :** armes courantes.
+- **Formation aux armures :** armures légères, intermédiaires et boucliers.
+- **Maîtrises de compétences choisies :** **Médecine et Intuition**.
+
+### Équipement de départ de clerc
+
+**Choix validé : équipement A.** Dorin reçoit, en complément de l’équipement de son historique Garde :
+
+- Chemise de mailles
+- Bouclier
+- Masse d’armes
+- Symbole sacré
+- Paquetage d’ecclésiastique
+- **7 po** (pièces d’or)
+
+### Choix de classe restant à effectuer
+
+- **Ordre divin (niveau 1) :** Protecteur ou Thaumaturge — **à définir**.
+- **Sorts du Clerc :** à déterminer selon le niveau retenu.
+- **Sous-classe envisagée au niveau 3 :** **Domaine de la Vie**, conformément à la biographie.
+
+[Source complémentaire : SRD français 5.2.1, Clerc](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf).
 
 ## Compétences et maîtrises
 
 - **Historique :** Athlétisme, Perception.
-- **Classe :** à définir en évitant les doublons de maîtrise.
+- **Classe :** **Médecine, Intuition** (choix validé).
 - **Outils :** boîte de jeux (**dés**, historique Garde).
 - **Autres maîtrises :** à définir.
 
 ## Combat, sorts et équipement
 
-À renseigner une fois les caractéristiques, le niveau et les choix de classe fixés. L’équipement de l’historique Garde est déjà choisi ci-dessus.
+À compléter après fixation des caractéristiques, du niveau, de l’Ordre divin et des sorts. Les équipements de départ de **Garde** et de **Clerc** sont tous deux validés dans leurs sections respectives (**19 po au total** avant toute dépense).
 
 ## Notes de création
 
