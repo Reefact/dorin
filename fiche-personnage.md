@@ -40,8 +40,8 @@ Dorin n’a jamais décidé de se consacrer à Ilmater. Au fil des épreuves et 
 | --- | ---: | ---: |
 | Charisme | **12** | **+1** |
 | Constitution | **15** | **+2** |
-| Dextérité | **10** | **+0** |
-| Force | **14** | **+2** |
+| Dextérité | **12** | **+1** |
+| Force | **12** | **+1** |
 | Intelligence | **8** | **−1** |
 | Sagesse | **16** | **+3** |
 
