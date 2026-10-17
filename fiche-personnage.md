@@ -12,7 +12,7 @@
 | Ordre divin | **Protecteur** |
 | Domaine divin | **Domaine de la Vie** |
 | Divinité | **Ilmater** |
-| Alignement | **Loyal Bon** |
+| Alignement | **Neutre Bon** |
 | Langues | **Commun, gnome et nain** |
 
 ## Personnalité et vocation
