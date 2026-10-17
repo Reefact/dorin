@@ -60,7 +60,7 @@ L’historique Garde apporte **+1 en Force**, **+1 en intelligence**, et **+1 en
 | Intuition | **+5** |
 | Jet de sauvegarde de Charisme | **+3** |
 | Jet de sauvegarde de Sagesse | **+5** |
-| Médecine | **+5** |
+| Persuasion | **+3** |
 | Perception | **+5** |
 | Perception passive | **15** |
 | Vitesse | **9 m** |
@@ -90,7 +90,7 @@ Dorin est un nain des collines, élevé dans le bastion du clan Grūnvar. Il a a
 ### Compétences et outils
 
 - **Avec les dés :** Sagesse pour repérer une tricherie (DD 10) ou gagner une partie (DD 20) ; son bonus de maîtrise s’ajoute aux jets appropriés.
-- **Compétences maîtrisées comme clerc :** Intuition, Médecine.
+- **Compétences maîtrisées comme clerc :** Intuition, Persuasion.
 - **Compétences maîtrisées grâce à son historique :** Athlétisme, Perception.
 - **Outil maîtrisé :** boîte de jeux (**dés**).
 
