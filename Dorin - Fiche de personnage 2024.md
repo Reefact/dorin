@@ -13,7 +13,11 @@
 | Domaine divin | **Domaine de la Vie** (sous-classe, niveau 3) |
 | Historique | **Garde** |
 | Niveau | **3** |
-| Alignement | À définir |
+| Alignement | **Loyal Bon** |
+
+## Alignement — Loyal Bon
+
+Dorin est Loyal Bon parce qu'il se montre fidèle à ses engagements et cherche à protéger les personnes qui ont besoin de lui. Sa loyauté n'est pas une obéissance aveugle aux autorités : elle repose sur sa parole, les valeurs de son clan et son sens du devoir. Il aide les autres sans attendre de récompense, et honore la mémoire de ses proches disparus en prenant soin des vivants.
 
 ## Historique — Garde
 
