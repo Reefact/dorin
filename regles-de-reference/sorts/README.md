@@ -7,7 +7,7 @@ Les titres d’origine sont conservés à l’intérieur des fiches ; seuls les 
 
 ## Avancement
 
-- **391** entrées référencées, **6** vérifiées, **385** à vérifier.
+- **391** entrées référencées, **7** vérifiées, **384** à vérifier.
 - **42** fiches comportent deux rédactions exploitables à arbitrer.
 - **186** fiches n’ont pas encore de description exploitable.
 
@@ -54,7 +54,7 @@ La création de l’index ne signifie **pas** que toutes les règles ont été c
 - [Barrière de lames](Barri%C3%A8re%20de%20lames%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
 - [Bénédiction](B%C3%A9n%C3%A9diction.md) — vérifié
 - [Blessure](Blessure.md) — vérifié
-- [Bouche magique](Bouche%20magique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Bouche magique](Bouche%20magique.md) — vérifié
 - [Bouclier](Bouclier.md) — vérifié
 - [Bouclier de feu](Bouclier%20de%20feu%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
 - [Bouclier de la foi](Bouclier%20de%20la%20foi.md) — vérifié
