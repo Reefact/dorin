@@ -1,6 +1,6 @@
 # La rencontre avec un artisan gnome — Trame à développer
 
-> **Statut : base narrative provisoire, à enrichir avec le MJ.** Ce document fixe une piste pour expliquer comment Dorin a appris le gnome. Il ne constitue pas encore un récit et ne modifie pas la [biographie principale](lore-a-retravailler/Dorin%20-%20Fiche%20personnage%20compl%C3%A8te.md).
+> **Statut : base narrative provisoire, à enrichir avec le MJ.** Ce document fixe une piste pour expliquer comment Dorin a appris le gnome. Il ne constitue pas encore un récit et ne modifie pas la [biographie principale](../lore-a-retravailler/Dorin%20-%20Fiche%20personnage%20compl%C3%A8te.md).
 
 ## Point de départ
 
