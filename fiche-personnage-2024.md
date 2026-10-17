@@ -128,7 +128,7 @@ Dorin sait manier les armes de guerre et porter les armures lourdes. Il privilé
 - **Emplacements de niveau 2 :** 2.
 - **Sorts mineurs connus :** 3.
 
-Les autres sorts accessibles à Dorin figurent dans son [grimoire des sorts accessibles](Dorin%20-%20Grimoire%20-%20Sorts%20accessibles.md).
+Les autres sorts accessibles à Dorin figurent dans son [grimoire des sorts accessibles](grimoire-sorts-accessibles.md).
 
 ## Équipement
 
