@@ -13,10 +13,6 @@ Vous pointez du doigt une créature que vous voyez à portée et le tintement m�
 
 *Amélioration de sort mineur.* Les dégâts augmentent d’un dé lorsque vous atteignez les niveaux 5 (2d8 ou 2d12), 11 (3d8 ou 3d12) et 17 (4d8 ou 4d12).
 
-## Disponibilité pour Dorin
-
-Dorin n’a pas choisi Glas parmi ses trois sorts mineurs connus. Il ne peut donc pas le lancer actuellement.
-
 ## Source
 
 *Manuel des joueurs* 2024, entrée « Glas » — transcription du texte officiel à partir de la photographie fournie par le joueur.
