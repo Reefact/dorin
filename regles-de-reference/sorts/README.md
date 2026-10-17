@@ -20,7 +20,6 @@ Le suffixe `- à vérifier` est réservé aux **fiches réellement incomplètes*
 - [Aliénation](Ali%C3%A9nation.md)
 - [Allié planaire](Alli%C3%A9%20planaire.md)
 - [Amélioration de caractéristique](Am%C3%A9lioration%20de%20caract%C3%A9ristique.md)
-- [Amis](Amis%20-%20%C3%A0%20v%C3%A9rifier.md) — à compléter
 - [Amitié avec les animaux](Amiti%C3%A9%20avec%20les%20animaux.md)
 - [Animation des morts](Animation%20des%20morts.md)
 - [Animation des objets](Animation%20des%20objets.md)
@@ -178,6 +177,7 @@ Le suffixe `- à vérifier` est réservé aux **fiches réellement incomplètes*
 - [Éveil](%C3%89veil.md)
 - [Fabrication](Fabrication.md)
 - [Façonnage de la pierre](Fa%C3%A7onnage%20de%20la%20pierre.md)
+- [Faux amis](Faux%20amis%20-%20%C3%A0%20v%C3%A9rifier.md) — à compléter
 - [Faveur divine](Faveur%20divine.md)
 - [Festin des héros](Festin%20des%20h%C3%A9ros.md)
 - [Feuille morte](Feuille%20morte.md)
