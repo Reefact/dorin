@@ -4,7 +4,7 @@ Répertoire des **41 sorts** accessibles à Dorin, clerc du Domaine de la Vie de
 
 ## Decks de préparation — propositions pour Dorin
 
-Ces **deux decks** sont des sélections de **6 sorts au choix**, adaptées à différentes phases de l'aventure. Les sorts suivent **l'ordre de priorité de Dorin : 1. protéger ; 2. guérir ; 3. comprendre ; 4. défendre en attaquant si nécessaire**. Il privilégie donc la prévention des blessures plutôt que leur réparation, et ne recourt à l'offensive qu'en dernier ressort. **« Rempart » est le deck par défaut de Dorin** : sa sélection habituelle de six sorts. « Discernement » constitue une alternative à préparer après un repos long selon les besoins de l'aventure.
+Ces **trois decks** sont des sélections de **6 sorts au choix**, adaptées à différentes phases de l'aventure. **« Rempart » est le deck par défaut de Dorin** ; avec « Discernement », il suit ses priorités habituelles : **1. protéger ; 2. guérir ; 3. comprendre ; 4. défendre en attaquant si nécessaire**. **« Déchaînement » fait volontairement exception :** il rassemble les choix les plus offensifs accessibles à un clerc de niveau 3, indépendamment de la personnalité de Dorin. Ces trois préparations sont des alternatives, à choisir après un repos long.
 
 **Socle commun à chaque deck :**
 - **Toujours préparés grâce au Domaine de la Vie :** [Aide](regles-de-reference/sorts/Aide.md), [Bénédiction](regles-de-reference/sorts/B%C3%A9n%C3%A9diction.md), [Restauration partielle](regles-de-reference/sorts/Restauration%20partielle.md) et [Soins](regles-de-reference/sorts/Soins.md). Ils s'ajoutent aux six sorts du deck.
@@ -41,6 +41,29 @@ Ces **deux decks** sont des sélections de **6 sorts au choix**, adaptées à di
 - [Zone de vérité](regles-de-reference/sorts/Zone%20de%20v%C3%A9rit%C3%A9.md) — éclaircir une situation par la parole, sans lire dans les pensées.
 
 **Variante à envisager avec le MJ :** [Augure](regles-de-reference/sorts/Augure.md) conviendrait très bien à la quête spirituelle de Dorin. Il peut remplacer un sort de niveau 2 de ce deck, mais exige un nécessaire divinatoire d'une valeur d'au moins **25 po** : à prévoir avant de pouvoir le lancer.
+
+### Deck « Déchaînement » — offensive maximale (alternative extrême)
+
+**Objectif :** maximiser les dégâts et la capacité à écraser un adversaire, **sans tenir compte de la vocation protectrice de Dorin**. À son niveau 3, seuls trois sorts préparables de clerc infligent directement des dégâts : les autres choix ci-dessous sont des moyens offensifs de rendre l'ennemi vulnérable. Ce n'est pas un deck de sorts de niveau 3 : Dorin ne peut encore préparer que des sorts de **niveau 1 ou 2**.
+
+**Niveau 1 — 3 sorts à préparer :**
+- [Blessure](regles-de-reference/sorts/Blessure.md) — **2d10 dégâts nécrotiques au contact** sur un échec au jet de Constitution (moitié en cas de réussite) ; **3d10** avec un emplacement de niveau 2. Frappe brutale à courte portée.
+- [Imprécation](regles-de-reference/sorts/Impr%C3%A9cation.md) — jusqu'à **trois ennemis** subissent **−1d4 à leurs attaques et jets de sauvegarde** en cas d'échec au jet de Charisme (**concentration**). Facilite les offensives du groupe.
+- [Rayon traçant](regles-de-reference/sorts/Rayon%20tra%C3%A7ant.md) — **4d6 dégâts radiants à 36 m** sur une attaque de sort réussie ; **5d6** avec un emplacement de niveau 2. Le prochain jet d'attaque contre la cible bénéficie de l'avantage avant la fin du tour suivant de Dorin.
+
+**Niveau 2 — 3 sorts à préparer :**
+- [Arme spirituelle](regles-de-reference/sorts/Arme%20spirituelle.md) — attaque avec une arme spectrale : **1d8 + 3 dégâts de force** par coup réussi, avec possibilité de réattaquer via une action bonus aux tours suivants (**concentration**, jusqu'à 1 minute).
+- [Cécité/surdité](regles-de-reference/sorts/C%C3%A9cit%C3%A9-surdit%C3%A9.md) — aveugler un adversaire à distance sur un échec au jet de Constitution ; **sans concentration**. L'aveuglement favorise les attaques alliées et pénalise l'ennemi.
+- [Immobilisation de personne](regles-de-reference/sorts/Immobilisation%20de%20personne.md) — **paralyser un humanoïde** sur un échec au jet de Sagesse (**concentration**). Les attaques qui touchent la cible depuis 1,50 m sont des coups critiques : option redoutable si des alliés peuvent frapper au corps à corps.
+
+**Comment frapper fort :**
+- **Dégâts immédiats à distance :** Rayon traçant (4d6, ou 5d6 avec un emplacement de niveau 2).
+- **Dégâts immédiats au contact :** Blessure (2d10, ou 3d10 avec un emplacement de niveau 2), avec moitié des dégâts même si le jet de sauvegarde réussit.
+- **Pression sur plusieurs tours :** Arme spirituelle, en utilisant l'action bonus pour attaquer à nouveau ; elle consomme la concentration.
+- **Neutralisation offensive :** Immobilisation de personne contre un humanoïde, ou Cécité/surdité sans concentration pour conserver une autre concentration.
+- **Attention :** Imprécation, Arme spirituelle et Immobilisation de personne demandent toutes de la **concentration** : Dorin doit choisir laquelle maintenir. Lancer plusieurs sorts consommant des emplacements pendant un même tour est également restreint par les règles 2024.
+- **Limite au niveau 3 :** seulement **4 emplacements de niveau 1 et 2 de niveau 2** par repos long. Les **4 sorts de Domaine de la Vie** restent préparés même dans ce deck.
+- **Sort mineur offensif :** Dorin **ne connaît pas actuellement Flamme sacrée**. Ce sort serait utile pour attaquer sans consommer d'emplacement, mais ne fait **pas** partie de ce deck ni de ses sorts mineurs connus tant qu'un choix ou remplacement autorisé n'a pas eu lieu.
 
 ### Utilisation des decks
 
