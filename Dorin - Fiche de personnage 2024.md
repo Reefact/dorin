@@ -51,11 +51,20 @@ Aucune augmentation ne peut porter une caractéristique au-delà de 20.
 
 Ces deux maîtrises sont conférées par l’historique.
 
-### Maîtrise d’outils
+### Maîtrise d’outils — Boîte de jeux (dés)
 
-**Une catégorie de boîte de jeux au choix.**
+**Choix validé : dés.** Dorin maîtrise cette variante de **boîte de jeux** et possède un jeu de dés dans son équipement de départ.
 
-**Boîte de jeux choisie : à définir.**
+**Règles d'utilisation (Manuel des joueurs 2024, « Boîte de jeux ») :**
+- **Caractéristique associée : Sagesse.**
+- **Déterminer si quelqu'un triche :** jet de Sagesse, **DD 10**.
+- **Gagner une partie :** jet de Sagesse, **DD 20**.
+- Ces usages relèvent de l'action **Utilisation** de l'outil.
+- La **maîtrise des dés** permet d'ajouter le **bonus de maîtrise** aux jets de caractéristique appropriés effectués avec ce jeu. Si Dorin maîtrise aussi une compétence applicable au même jet, il bénéficie en plus de l'**Avantage** au jet.
+
+**Variante choisie : dés (valeur de référence : 1 pa).** Les différentes variantes de boîtes de jeux sont des maîtrises distinctes.
+
+*Référence : [AideDD, règles 2024 — Autres outils : Boîte de jeux](https://www.aidedd.org/regles-24/equipement/outils/).*
 
 ### Équipement de départ de l’historique
 
@@ -65,7 +74,7 @@ Ces deux maîtrises sont conférées par l’historique.
 - Arbalète légère
 - 20 carreaux
 - Carquois
-- Boîte de jeux correspondant à la maîtrise choisie
+- Boîte de jeux : **dés**
 - Lanterne à capote
 - Menottes
 - Tenue de voyage
@@ -137,7 +146,7 @@ Dorin est un **nain des collines du clan Grūnvar**, conformément à sa biograp
 
 - **Historique :** Athlétisme, Perception.
 - **Classe :** à définir en évitant les doublons de maîtrise.
-- **Outils :** boîte de jeux au choix (historique).
+- **Outils :** boîte de jeux (**dés**, historique Garde).
 - **Autres maîtrises :** à définir.
 
 ## Combat, sorts et équipement
