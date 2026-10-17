@@ -19,6 +19,10 @@
 
 Dorin est Loyal Bon parce qu'il se montre fidèle à ses engagements et cherche à protéger les personnes qui ont besoin de lui. Sa loyauté n'est pas une obéissance aveugle aux autorités : elle repose sur sa parole, les valeurs de son clan et son sens du devoir. Il aide les autres sans attendre de récompense, et honore la mémoire de ses proches disparus en prenant soin des vivants.
 
+## Vocation — Soutenir avant de combattre
+
+Dorin n'est pas un guerrier qui cherche l'affrontement : même lorsqu'il était garde, il se plaçait devant les autres pour les défendre, pas pour attaquer. Il tient de sa mère Mira son attention aux blessures et aux soins, approfondie ensuite auprès de Thordek. **Tous ses futurs choix de sorts, capacités et équipement doivent suivre cet ordre de priorité : d'abord soigner, soutenir et protéger les autres ; ensuite se protéger lui-même pour rester capable de les aider ; enfin recourir à l'attaque, seulement si elle est nécessaire pour écarter une menace.** Son Bras d'Acier symbolise cette conviction : tenir pour que les autres puissent vivre.
+
 ## Historique — Garde
 
 **Référence :** *Manuel des joueurs 2024*, historique **Garde** (*Guard* en anglais). Cet historique figure dans le Manuel des joueurs 2024, **mais pas parmi les quatre historiques publiés dans le SRD 5.2.1**.
