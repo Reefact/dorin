@@ -23,6 +23,8 @@ Même lorsqu’il servait dans la milice, il se plaçait devant les autres pour 
 
 Son empathie le pousse à écouter et à comprendre les souffrances, les émotions et les besoins d’autrui avant de juger. Son « Bras d’Acier » incarne cette conviction : **tenir pour que les autres puissent vivre**.
 
+Dorin n’a jamais décidé de se consacrer à Ilmater. Au fil des épreuves et des soins reçus auprès de Thordek, il s’est rapproché, par ses actes, des valeurs d’endurance, de compassion et de protection que porte ce dieu. Ses dons divins semblent être le prolongement naturel de cette vocation. Il ignore encore si c’est Ilmater qui lui répond : pour l’heure, il cherche surtout à soulager ceux qui souffrent.
+
 ## Caractéristiques
 
 | Caractéristique | Valeur | Modificateur |
