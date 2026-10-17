@@ -114,7 +114,7 @@ Dorin a d’abord appris le métier de bâtisseur auprès de son père. Il a ens
 ### Traits des nains (règles 2024)
 
 - **Vision dans le noir :** portée de **36 m**. Dorin voit dans l’obscurité dans les conditions prévues par la règle *Vision dans le noir*.
-- **Résilience naine :** résistance aux **dégâts de poison**. Dorin bénéficie aussi de l’**avantage** aux jets de sauvegarde destinés à éviter l’état **Empoisonné** ou à y mettre fin.
+- **Résistance naine :** résistance aux **dégâts de poison**. Dorin bénéficie aussi de l’**avantage** aux jets de sauvegarde destinés à éviter l’état **Empoisonné** ou à y mettre fin.
 - **Ténacité naine :** son **maximum de points de vie augmente de 1 au niveau 1**, puis de **1 supplémentaire chaque fois qu’il gagne un niveau**. Cela correspond à **+1 PV maximal par niveau**.
 - **Connaissance de la pierre :** par une **action bonus**, Dorin obtient la **Perception des vibrations** à **18 m** pendant **10 minutes**, à condition d’être sur une surface de pierre ou en contact avec une telle surface (naturelle ou travaillée). Il peut activer ce trait un nombre de fois égal à son **bonus de maîtrise** et récupère toutes ses utilisations après un **repos long**.
 
