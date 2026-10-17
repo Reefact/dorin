@@ -4,15 +4,15 @@
 
 | Élément | Dorin |
 | --- | --- |
-| Nom | Dorin « Bras d’Acier » Grūnvar |
-| Espèce | Nain des collines |
+| Alignement | **Loyal Bon** |
 | Clan | Grūnvar |
 | Classe | Clerc, niveau **3** |
-| Ordre divin | **Protecteur** |
 | Domaine divin | **Domaine de la Vie** |
+| Espèce | Nain des collines |
 | Historique | **Garde** |
-| Alignement | **Loyal Bon** |
-| Langues | **Commun, nain et gnome** |
+| Langues | **Commun, gnome et nain** |
+| Nom | Dorin « Bras d’Acier » Grūnvar |
+| Ordre divin | **Protecteur** |
 
 ## Personnalité et vocation
 
@@ -26,12 +26,12 @@ Son empathie le pousse à écouter et à comprendre les souffrances, les émotio
 
 | Caractéristique | Valeur | Modificateur |
 | --- | ---: | ---: |
-| Force | **14** | **+2** |
-| Dextérité | **10** | **+0** |
+| Charisme | **12** | **+1** |
 | Constitution | **15** | **+2** |
+| Dextérité | **10** | **+0** |
+| Force | **14** | **+2** |
 | Intelligence | **8** | **−1** |
 | Sagesse | **16** | **+3** |
-| Charisme | **12** | **+1** |
 
 L’historique Garde apporte **+1 en Force** et **+2 en Sagesse**.
 
@@ -39,19 +39,19 @@ L’historique Garde apporte **+1 en Force** et **+2 en Sagesse**.
 
 | Élément | Valeur |
 | --- | ---: |
+| Athlétisme | **+4** |
+| Bonus d’attaque magique de clerc | **+5** |
 | Bonus de maîtrise | **+2** |
 | Classe d’armure (chemise de mailles et bouclier) | **15** |
+| DD de sauvegarde des sorts de clerc | **13** |
 | Initiative (don Vigilant) | **+2** |
-| Vitesse | **9 m** |
-| Perception passive | **15** |
-| Athlétisme | **+4** |
 | Intuition | **+5** |
+| Jet de sauvegarde de Charisme | **+3** |
+| Jet de sauvegarde de Sagesse | **+5** |
 | Médecine | **+5** |
 | Perception | **+5** |
-| Jet de sauvegarde de Sagesse | **+5** |
-| Jet de sauvegarde de Charisme | **+3** |
-| DD de sauvegarde des sorts de clerc | **13** |
-| Bonus d’attaque magique de clerc | **+5** |
+| Perception passive | **15** |
+| Vitesse | **9 m** |
 
 **Points de vie maximum : 11 PV (niveau 1) + ? PV (niveaux 2 et 3, dés lancés avec le MJ).**  
 **Dés de vie : 3d8.**
@@ -62,34 +62,34 @@ Dorin est un nain des collines, élevé dans le bastion du clan Grūnvar. Il a a
 
 ### Traits nains
 
+- **Connaissance de la pierre :** par une action bonus, Dorin obtient la **Perception des vibrations à 18 m pendant 10 minutes** lorsqu’il touche une surface de pierre. **2 utilisations**, récupérées après un repos long.
 - **Humanoïde de taille M.**
-- **Vision dans le noir :** 36 m.
 - **Résistance naine :** résistance aux dégâts de poison ; avantage aux jets de sauvegarde pour éviter l’état Empoisonné ou y mettre fin.
 - **Ténacité naine :** maximum de points de vie augmenté de **1 par niveau** (soit **+3 PV** au niveau 3 : +1 est déjà inclus dans les 11 PV du niveau 1 ; les +2 des niveaux suivants entrent dans le total à confirmer avec le MJ).
-- **Connaissance de la pierre :** par une action bonus, Dorin obtient la **Perception des vibrations à 18 m pendant 10 minutes** lorsqu’il touche une surface de pierre. **2 utilisations**, récupérées après un repos long.
+- **Vision dans le noir :** 36 m.
 
 ## Historique — Garde
 
 ### Don d’origine : Vigilant
 
-- **Maîtrise de l’initiative :** Dorin ajoute son bonus de maîtrise à son initiative.
 - **Échange d’initiative :** après le jet d’initiative, Dorin peut échanger son résultat avec celui d’un allié consentant du même combat, si tous deux sont capables d’agir.
+- **Maîtrise de l’initiative :** Dorin ajoute son bonus de maîtrise à son initiative.
 
 ### Compétences et outils
 
-- **Compétences maîtrisées grâce à son historique :** Athlétisme, Perception.
-- **Compétences maîtrisées comme clerc :** Médecine, Intuition.
-- **Outil maîtrisé :** boîte de jeux (**dés**).
 - **Avec les dés :** Sagesse pour repérer une tricherie (DD 10) ou gagner une partie (DD 20) ; son bonus de maîtrise s’ajoute aux jets appropriés.
+- **Compétences maîtrisées comme clerc :** Intuition, Médecine.
+- **Compétences maîtrisées grâce à son historique :** Athlétisme, Perception.
+- **Outil maîtrisé :** boîte de jeux (**dés**).
 
 ## Classe — Clerc
 
 ### Maîtrises et équipement de combat
 
 - **Armes :** armes courantes et armes de guerre.
-- **Armures :** légères, intermédiaires et lourdes ; boucliers.
-- **Jets de sauvegarde maîtrisés :** Sagesse et Charisme.
+- **Armures :** intermédiaires, légères et lourdes ; boucliers.
 - **Caractéristique de sorts :** Sagesse.
+- **Jets de sauvegarde maîtrisés :** Charisme et Sagesse.
 
 ### Ordre divin : Protecteur
 
@@ -106,15 +106,15 @@ Dorin sait manier les armes de guerre et porter les armures lourdes. Il privilé
 ### Domaine de la Vie
 
 - **Disciple de la Vie :** lorsqu’un sort lancé avec un emplacement restaure des PV, la cible récupère **2 + niveau de l’emplacement** PV supplémentaires au tour du lancement.
-- **Sorts toujours préparés :** [Bénédiction](regles-de-reference/sorts/B%C3%A9n%C3%A9diction.md), [Soins](regles-de-reference/sorts/Soins.md), [Aide](regles-de-reference/sorts/Aide.md) et [Restauration partielle](regles-de-reference/sorts/Restauration%20partielle.md). Ces quatre sorts ne comptent pas parmi les six sorts que Dorin peut préparer quotidiennement.
+- **Sorts toujours préparés :** [Aide](regles-de-reference/sorts/Aide.md), [Bénédiction](regles-de-reference/sorts/B%C3%A9n%C3%A9diction.md), [Restauration partielle](regles-de-reference/sorts/Restauration%20partielle.md) et [Soins](regles-de-reference/sorts/Soins.md). Ces quatre sorts ne comptent pas parmi les six sorts que Dorin peut préparer quotidiennement.
 
 ## Sorts
 
 ### Sorts mineurs connus — lançables à volonté
 
+- **[Assistance](regles-de-reference/sorts/Assistance.md) :** aider une créature à réussir certains tests de compétence en lui accordant 1d4 ; une expression de son empathie.
 - **[Réparation](regles-de-reference/sorts/R%C3%A9paration.md) :** réparer de petites cassures et déchirures d’objets ; un écho de son apprentissage auprès de Harn.
 - **[Stabilisation](regles-de-reference/sorts/Stabilisation.md) :** stabiliser une créature à 0 PV sans lui rendre de PV ; un prolongement des soins transmis par Mira.
-- **[Assistance](regles-de-reference/sorts/Assistance.md) :** aider une créature à réussir certains tests de compétence en lui accordant 1d4 ; une expression de son empathie.
 
 ### Sorts du Domaine de la Vie — toujours préparés
 
@@ -123,10 +123,10 @@ Dorin sait manier les armes de guerre et porter les armures lourdes. Il privilé
 
 ### Ressources magiques
 
-- **Sorts mineurs connus :** 3.
 - **Capacité de préparation :** 6 sorts de clerc de niveau 1 ou 2, en plus des quatre sorts du domaine.
 - **Emplacements de niveau 1 :** 4.
 - **Emplacements de niveau 2 :** 2.
+- **Sorts mineurs connus :** 3.
 
 Les autres sorts accessibles à Dorin figurent dans son [grimoire des sorts accessibles](Dorin%20-%20Grimoire%20-%20Sorts%20accessibles.md).
 
@@ -134,12 +134,12 @@ Les autres sorts accessibles à Dorin figurent dans son [grimoire des sorts acce
 
 | Équipement du garde | Équipement du clerc |
 | --- | --- |
-| Lance | Chemise de mailles |
 | Arbalète légère | Bouclier |
-| 20 carreaux et carquois | Masse d’armes |
-| Boîte de jeux (dés) | Symbole sacré |
-| Lanterne à capote | Paquetage d’ecclésiastique |
-| Menottes | |
-| Tenue de voyage | |
+| Boîte de jeux (dés) | Chemise de mailles |
+| Carreaux (20) et carquois | Masse d’armes |
+| Lance | Paquetage d’ecclésiastique |
+| Lanterne à capote | Symbole sacré |
+| Menottes |  |
+| Tenue de voyage |  |
 
 **Argent de départ : 19 po** (12 po de l’historique et 7 po de la classe).
