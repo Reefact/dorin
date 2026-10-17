@@ -1,0 +1,408 @@
+# Catalogue des sorts
+
+Le catalogue est consacré aux **391 sorts du Manuel des joueurs 2024** (règles révisées de D&D 5). Il est indépendant du personnage Dorin.
+
+Une fiche `Nom du sort.md` est contrôlée contre le SRD français et AideDD. Une fiche `Nom du sort - à vérifier.md` est **non contrôlée intégralement**, incomplète ou contradictoire. Le suffixe ne prouve pas une divergence.
+Les titres d’origine sont conservés à l’intérieur des fiches ; seuls les caractères interdits dans les fichiers sont remplacés.
+
+## Avancement
+
+- **391** entrées référencées, **6** vérifiées, **385** à vérifier.
+- **42** fiches comportent deux rédactions exploitables à arbitrer.
+- **186** fiches n’ont pas encore de description exploitable.
+
+La création de l’index ne signifie **pas** que toutes les règles ont été contrôlées.
+
+## Index alphabétique
+
+- [Agrandissement/rapetissement](Agrandissement-rapetissement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aide](Aide%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Alarme](Alarme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aliénation](Ali%C3%A9nation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Allié planaire](Alli%C3%A9%20planaire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Amélioration de caractéristique](Am%C3%A9lioration%20de%20caract%C3%A9ristique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Amis](Amis%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Amitié avec les animaux](Amiti%C3%A9%20avec%20les%20animaux%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Animation des morts](Animation%20des%20morts%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Animation des objets](Animation%20des%20objets%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Antidétection](Antid%C3%A9tection%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Apaisement des émotions](Apaisement%20des%20%C3%A9motions%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Apparence trompeuse](Apparence%20trompeuse%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Appel de destrier](Appel%20de%20destrier%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Appel de familier](Appel%20de%20familier%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Appel de la foudre](Appel%20de%20la%20foudre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Arme élémentaire](Arme%20%C3%A9l%C3%A9mentaire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Arme magique](Arme%20magique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Arme spirituelle](Arme%20spirituelle%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Armure d'Agathys](Armure%20d'Agathys%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Armure de mage](Armure%20de%20mage%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Arrêt du temps](Arr%C3%AAt%20du%20temps%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aspersion d'acide](Aspersion%20d'acide%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Assassin imaginaire](Assassin%20imaginaire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Assistance](Assistance%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Augure](Augure%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aura de pureté](Aura%20de%20puret%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aura de vie](Aura%20de%20vie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aura de vitalité](Aura%20de%20vitalit%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aura du croisé](Aura%20du%20crois%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aura magique de Nystul](Aura%20magique%20de%20Nystul%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aura sacrée](Aura%20sacr%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Aversion/attirance](Aversion-attirance%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Bagou](Bagou%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Baies nourricières](Baies%20nourrici%C3%A8res%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Bannissement](Bannissement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Barrière de lames](Barri%C3%A8re%20de%20lames%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Bénédiction](B%C3%A9n%C3%A9diction.md) — vérifié
+- [Blessure](Blessure.md) — vérifié
+- [Bouche magique](Bouche%20magique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Bouclier](Bouclier.md) — vérifié
+- [Bouclier de feu](Bouclier%20de%20feu%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Bouclier de la foi](Bouclier%20de%20la%20foi.md) — vérifié
+- [Bouffée de poison](Bouff%C3%A9e%20de%20poison%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Boule de feu](Boule%20de%20feu.md) — vérifié
+- [Boule de feu à retardement](Boule%20de%20feu%20%C3%A0%20retardement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Bourrasque](Bourrasque%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Brume mortelle](Brume%20mortelle%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Cage de force](Cage%20de%20force%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Caresse du vampire](Caresse%20du%20vampire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Cécité/surdité](C%C3%A9cit%C3%A9-surdit%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Cercle de mort](Cercle%20de%20mort%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Cercle de pouvoir](Cercle%20de%20pouvoir%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Cercle de téléportation](Cercle%20de%20t%C3%A9l%C3%A9portation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Cercle magique](Cercle%20magique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Chaîne d'éclairs](Cha%C3%AEne%20d'%C3%A9clairs%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Champ antimagie](Champ%20antimagie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Changement de forme](Changement%20de%20forme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Changement de plan](Changement%20de%20plan%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Charme-monstre](Charme-monstre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Charme-personne](Charme-personne%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Châtiment de cécité](Ch%C3%A2timent%20de%20c%C3%A9cit%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Châtiment de courroux](Ch%C3%A2timent%20de%20courroux%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Châtiment de fournaise](Ch%C3%A2timent%20de%20fournaise%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Châtiment de révélation](Ch%C3%A2timent%20de%20r%C3%A9v%C3%A9lation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Châtiment de stupeur](Ch%C3%A2timent%20de%20stupeur%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Châtiment de tonnerre](Ch%C3%A2timent%20de%20tonnerre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Châtiment divin](Ch%C3%A2timent%20divin%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Châtiment du ban](Ch%C3%A2timent%20du%20ban%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Chaudron bouillonnant de Tasha](Chaudron%20bouillonnant%20de%20Tasha%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Chien de garde de Mordenkainen](Chien%20de%20garde%20de%20Mordenkainen%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Clairvoyance](Clairvoyance%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Clignotement](Clignotement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Clone](Clone%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Coffre secret de Léomund](Coffre%20secret%20de%20L%C3%A9omund%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Colonne de flamme](Colonne%20de%20flamme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Communication à distance](Communication%20%C3%A0%20distance%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Communication avec les animaux](Communication%20avec%20les%20animaux%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Communication avec les morts](Communication%20avec%20les%20morts%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Communication avec les plantes](Communication%20avec%20les%20plantes%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Communion](Communion%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Communion avec la nature](Communion%20avec%20la%20nature%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Compréhension des langues](Compr%C3%A9hension%20des%20langues%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Compulsion](Compulsion%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Cône de froid](C%C3%B4ne%20de%20froid%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Confusion](Confusion%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Contact avec les plans](Contact%20avec%20les%20plans%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Contact glacial](Contact%20glacial%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Contagion](Contagion%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Contamination](Contamination%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Contresort](Contresort%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Contrôle de l'eau](Contr%C3%B4le%20de%20l'eau%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Contrôle du climat](Contr%C3%B4le%20du%20climat%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation d'aberration](Convocation%20d'aberration%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation d'artificiel](Convocation%20d'artificiel%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation d'élémentaire](Convocation%20d'%C3%A9l%C3%A9mentaire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation de bête](Convocation%20de%20b%C3%AAte%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation de céleste](Convocation%20de%20c%C3%A9leste%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation de dragon](Convocation%20de%20dragon%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation de fée](Convocation%20de%20f%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation de fiélon](Convocation%20de%20fi%C3%A9lon%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocation de mort-vivant](Convocation%20de%20mort-vivant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Convocations instantanées de Drawmij](Convocations%20instantan%C3%A9es%20de%20Drawmij%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Coquille antivie](Coquille%20antivie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Corde enchantée](Corde%20enchant%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Cordon de flèches](Cordon%20de%20fl%C3%A8ches%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Couleurs dansantes](Couleurs%20dansantes%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Coup au but](Coup%20au%20but%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Coup de tonnerre](Coup%20de%20tonnerre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Couronne du dément](Couronne%20du%20d%C3%A9ment%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Couteau de glace](Couteau%20de%20glace%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Création](Cr%C3%A9ation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Création de mort-vivant](Cr%C3%A9ation%20de%20mort-vivant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Création de nourriture et d'eau](Cr%C3%A9ation%20de%20nourriture%20et%20d'eau%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Création ou destruction d'eau](Cr%C3%A9ation%20ou%20destruction%20d'eau%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Croissance d'épines](Croissance%20d'%C3%A9pines%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Croissance végétale](Croissance%20v%C3%A9g%C3%A9tale%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Crosse des druides](Crosse%20des%20druides%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Danse irrésistible d'Otto](Danse%20irr%C3%A9sistible%20d'Otto%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Déblocage](D%C3%A9blocage%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Décharge occulte](D%C3%A9charge%20occulte%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Dédale](D%C3%A9dale%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Déguisement](D%C3%A9guisement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Délivrance des malédictions](D%C3%A9livrance%20des%20mal%C3%A9dictions%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Demi-plan](Demi-plan%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Désintégration](D%C3%A9sint%C3%A9gration%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Détection de l'invisibilité](D%C3%A9tection%20de%20l'invisibilit%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Détection de la magie](D%C3%A9tection%20de%20la%20magie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Détection des pensées](D%C3%A9tection%20des%20pens%C3%A9es%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Détection des pièges](D%C3%A9tection%20des%20pi%C3%A8ges%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Détection du mal et du bien](D%C3%A9tection%20du%20mal%20et%20du%20bien%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Détection du poison et des maladies](D%C3%A9tection%20du%20poison%20et%20des%20maladies%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Discours captivant](Discours%20captivant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Disque flottant de Tenser](Disque%20flottant%20de%20Tenser%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Dissimulation suprême](Dissimulation%20supr%C3%AAme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Dissipation de la magie](Dissipation%20de%20la%20magie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Dissipation du mal et du bien](Dissipation%20du%20mal%20et%20du%20bien%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Divination](Divination%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Doigt de mort](Doigt%20de%20mort%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Domination de bête](Domination%20de%20b%C3%AAte%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Domination de monstre](Domination%20de%20monstre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Domination de personne](Domination%20de%20personne%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Don des langues](Don%20des%20langues%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Double illusoire](Double%20illusoire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Doux repos](Doux%20repos%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Druidisme](Druidisme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Duel forcé](Duel%20forc%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Éclair](%C3%89clair%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Éclat du soleil](%C3%89clat%20du%20soleil%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Élémentalisme](%C3%89l%C3%A9mentalisme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Embruns prismatiques](Embruns%20prismatiques%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Emprisonnement](Emprisonnement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Enchevêtrement](Enchev%C3%AAtrement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Ennemi subconscient](Ennemi%20subconscient%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Entrave planaire](Entrave%20planaire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Épée de Mordenkainen](%C3%89p%C3%A9e%20de%20Mordenkainen%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Épine mentale](%C3%89pine%20mentale%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Éruption ensorcelée](%C3%89ruption%20ensorcel%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Esprit impénétrable](Esprit%20imp%C3%A9n%C3%A9trable%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Esprits gardiens](Esprits%20gardiens%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [État cadavérique](%C3%89tat%20cadav%C3%A9rique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Éveil](%C3%89veil%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Fabrication](Fabrication%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Façonnage de la pierre](Fa%C3%A7onnage%20de%20la%20pierre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Faveur divine](Faveur%20divine%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Festin des héros](Festin%20des%20h%C3%A9ros%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Feuille morte](Feuille%20morte%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Flamme éternelle](Flamme%20%C3%A9ternelle%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Flamme sacrée](Flamme%20sacr%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Flammes](Flammes%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Fléau d'insectes](Fl%C3%A9au%20d'insectes%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Flèche acide de Melf](Fl%C3%A8che%20acide%20de%20Melf%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Flèche de foudre](Fl%C3%A8che%20de%20foudre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Flétrissement](Fl%C3%A9trissement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Flou](Flou%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Fontaine de lune](Fontaine%20de%20lune%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Force fantasmagorique](Force%20fantasmagorique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Forme éthérée](Forme%20%C3%A9th%C3%A9r%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Forme gazeuse](Forme%20gazeuse%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Fou rire de Tasha](Fou%20rire%20de%20Tasha%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Fouet épineux](Fouet%20%C3%A9pineux%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Foulée brumeuse](Foul%C3%A9e%20brumeuse%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Fracassement](Fracassement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Frappe du vent d'acier](Frappe%20du%20vent%20d'acier%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Frappe piégeuse](Frappe%20pi%C3%A9geuse%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Fusion dans la pierre](Fusion%20dans%20la%20pierre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Gardien de la foi](Gardien%20de%20la%20foi%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Glas](Glas%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Glissement de terrain](Glissement%20de%20terrain%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Globe d'invulnérabilité](Globe%20d'invuln%C3%A9rabilit%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Glyphe de garde](Glyphe%20de%20garde%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Graisse](Graisse%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Grande foulée](Grande%20foul%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Grêle d'épines](Gr%C3%AAle%20d'%C3%A9pines%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Guérison](Gu%C3%A9rison%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Guérison de groupe](Gu%C3%A9rison%20de%20groupe%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Hâte](H%C3%A2te%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Héroïsme](H%C3%A9ro%C3%AFsme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Identification](Identification%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Illusion mineure](Illusion%20mineure%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Illusion programmée](Illusion%20programm%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Image majeure](Image%20majeure%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Image miroir](Image%20miroir%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Image projetée](Image%20projet%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Image silencieuse](Image%20silencieuse%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Immobilisation de monstre](Immobilisation%20de%20monstre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Immobilisation de personne](Immobilisation%20de%20personne%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Imprécation](Impr%C3%A9cation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Injonction](Injonction%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Insecte géant](Insecte%20g%C3%A9ant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Interdiction](Interdiction%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Inversion de la gravité](Inversion%20de%20la%20gravit%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invisibilité](Invisibilit%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invisibilité suprême](Invisibilit%C3%A9%20supr%C3%AAme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invocation d'animaux](Invocation%20d'animaux%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invocation d'élémentaire](Invocation%20d'%C3%A9l%C3%A9mentaire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invocation d'élémentaires mineurs](Invocation%20d'%C3%A9l%C3%A9mentaires%20mineurs%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invocation d'êtres sylvestres](Invocation%20d'%C3%AAtres%20sylvestres%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invocation de céleste](Invocation%20de%20c%C3%A9leste%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invocation de fée](Invocation%20de%20f%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invocation de projectiles](Invocation%20de%20projectiles%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Invocation de volée](Invocation%20de%20vol%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lame de feu](Lame%20de%20feu%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lenteur](Lenteur%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lévitation](L%C3%A9vitation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Liane avide](Liane%20avide%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Liberté de mouvement](Libert%C3%A9%20de%20mouvement%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lien de protection](Lien%20de%20protection%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lien télépathique de Rary](Lien%20t%C3%A9l%C3%A9pathique%20de%20Rary%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Localisation d'animaux ou de plantes](Localisation%20d'animaux%20ou%20de%20plantes%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Localisation d'objet](Localisation%20d'objet%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Localisation de créature](Localisation%20de%20cr%C3%A9ature%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lueur d'espoir](Lueur%20d'espoir%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lueurs féeriques](Lueurs%20f%C3%A9eriques%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lumière](Lumi%C3%A8re%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lumière du jour](Lumi%C3%A8re%20du%20jour%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Lumières dansantes](Lumi%C3%A8res%20dansantes%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Main de Bigby](Main%20de%20Bigby%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Main de mage](Main%20de%20mage%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mains brûlantes](Mains%20br%C3%BBlantes%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Malédiction](Mal%C3%A9diction%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Maléfice](Mal%C3%A9fice%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Manoir somptueux de Mordenkainen](Manoir%20somptueux%20de%20Mordenkainen%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Marche sur l'eau](Marche%20sur%20l'eau%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Marque du chasseur](Marque%20du%20chasseur%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mauvais oeil](Mauvais%20oeil%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Message](Message%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Messager animal](Messager%20animal%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Métal brûlant](M%C3%A9tal%20br%C3%BBlant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Métamorphose](M%C3%A9tamorphose%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Métamorphose animale](M%C3%A9tamorphose%20animale%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Métamorphose suprême](M%C3%A9tamorphose%20supr%C3%AAme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mirage](Mirage%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Modification d'apparence](Modification%20d'apparence%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Modification de mémoire](Modification%20de%20m%C3%A9moire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Monture fantôme](Monture%20fant%C3%B4me%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Moquerie cruelle](Moquerie%20cruelle%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mot de guérison](Mot%20de%20gu%C3%A9rison%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mot de guérison de groupe](Mot%20de%20gu%C3%A9rison%20de%20groupe%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mot de pouvoir étourdissant](Mot%20de%20pouvoir%20%C3%A9tourdissant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mot de pouvoir fortifiant](Mot%20de%20pouvoir%20fortifiant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mot de pouvoir guérisseur](Mot%20de%20pouvoir%20gu%C3%A9risseur%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mot de pouvoir mortel](Mot%20de%20pouvoir%20mortel%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mot de radiance](Mot%20de%20radiance%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mot de retour](Mot%20de%20retour%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Motif hypnotique](Motif%20hypnotique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mur d'épines](Mur%20d'%C3%A9pines%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mur de feu](Mur%20de%20feu%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mur de force](Mur%20de%20force%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mur de glace](Mur%20de%20glace%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mur de pierre](Mur%20de%20pierre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mur de vent](Mur%20de%20vent%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mur prismatique](Mur%20prismatique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Murmures dissonants](Murmures%20dissonants%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Mythes et légendes](Mythes%20et%20l%C3%A9gendes%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Nappe de brouillard](Nappe%20de%20brouillard%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Nuage incendiaire](Nuage%20incendiaire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Nuage nauséabond](Nuage%20naus%C3%A9abond%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Nuée de dagues](Nu%C3%A9e%20de%20dagues%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Nuée de météores](Nu%C3%A9e%20de%20m%C3%A9t%C3%A9ores%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Oeil du mage](Oeil%20du%20mage%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Orbe chromatique](Orbe%20chromatique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Orientation](Orientation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Parole divine](Parole%20divine%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Passage par les arbres](Passage%20par%20les%20arbres%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Passage sans trace](Passage%20sans%20trace%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Passe-muraille](Passe-muraille%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Pattes d'araignée](Pattes%20d'araign%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Peau d'écorce](Peau%20d'%C3%A9corce%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Peau de pierre](Peau%20de%20pierre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Perception bestiale](Perception%20bestiale%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Perturbations synaptiques](Perturbations%20synaptiques%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Petite hutte de Léomund](Petite%20hutte%20de%20L%C3%A9omund%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Pétrification](P%C3%A9trification%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Peur](Peur%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Piqûre mentale](Piq%C3%BBre%20mentale%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Poigne électrique](Poigne%20%C3%A9lectrique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Portail](Portail%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Portail arcanique](Portail%20arcanique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Porte dimensionnelle](Porte%20dimensionnelle%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Poussière d'étoile](Poussi%C3%A8re%20d'%C3%A9toile%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Préméditation](Pr%C3%A9m%C3%A9ditation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Prémonition](Pr%C3%A9monition%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Présence royale de Yolane](Pr%C3%A9sence%20royale%20de%20Yolane%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Prestidigitation](Prestidigitation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Prière de guérison](Pri%C3%A8re%20de%20gu%C3%A9rison%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Projectile magique](Projectile%20magique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Projection astrale](Projection%20astrale%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Protection contre l'énergie](Protection%20contre%20l'%C3%A9nergie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Protection contre la mort](Protection%20contre%20la%20mort%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Protection contre le mal et le bien](Protection%20contre%20le%20mal%20et%20le%20bien%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Protection contre le poison](Protection%20contre%20le%20poison%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Protections et sceaux](Protections%20et%20sceaux%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Purification de la nourriture et de l'eau](Purification%20de%20la%20nourriture%20et%20de%20l'eau%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Quête](Qu%C3%AAte%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Rappel à la vie](Rappel%20%C3%A0%20la%20vie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Rayon affaiblissant](Rayon%20affaiblissant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Rayon ardent](Rayon%20ardent%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Rayon de givre](Rayon%20de%20givre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Rayon de lune](Rayon%20de%20lune%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Rayon de soleil](Rayon%20de%20soleil%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Rayon empoisonné](Rayon%20empoisonn%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Rayon traçant](Rayon%20tra%C3%A7ant%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Régénération](R%C3%A9g%C3%A9n%C3%A9ration%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Réincarnation](R%C3%A9incarnation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Réparation](R%C3%A9paration%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Repli expéditif](Repli%20exp%C3%A9ditif%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Représailles infernales](Repr%C3%A9sailles%20infernales%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Résistance](R%C3%A9sistance%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Respiration aquatique](Respiration%20aquatique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Restauration partielle](Restauration%20partielle%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Restauration suprême](Restauration%20supr%C3%AAme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Résurrection](R%C3%A9surrection%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Résurrection suprême](R%C3%A9surrection%20supr%C3%AAme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Retour à la vie](Retour%20%C3%A0%20la%20vie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Sanctification](Sanctification%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Sanctuaire](Sanctuaire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Sanctuaire privé de Mordenkainen](Sanctuaire%20priv%C3%A9%20de%20Mordenkainen%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Saut](Saut%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Scrutation](Scrutation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Serviteur invisible](Serviteur%20invisible%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Silence](Silence%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Simulacre](Simulacre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Simulacre de vie](Simulacre%20de%20vie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Soins](Soins.md) — vérifié
+- [Soins de groupe](Soins%20de%20groupe%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Sommeil](Sommeil%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Songe](Songe%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Souffle du dragon](Souffle%20du%20dragon%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Souhait](Souhait%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Sphère de feu](Sph%C3%A8re%20de%20feu%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Sphère de vitriol](Sph%C3%A8re%20de%20vitriol%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Sphère glacée d'Otiluke](Sph%C3%A8re%20glac%C3%A9e%20d'Otiluke%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Sphère résiliente d'Otiluke](Sph%C3%A8re%20r%C3%A9siliente%20d'Otiluke%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Stabilisation](Stabilisation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Suggestion](Suggestion%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Suggestion de groupe](Suggestion%20de%20groupe%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Symbole](Symbole%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Télékinésie](T%C3%A9l%C3%A9kin%C3%A9sie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Télépathie](T%C3%A9l%C3%A9pathie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Téléportation](T%C3%A9l%C3%A9portation%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tempête de feu](Temp%C3%AAte%20de%20feu%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tempête de grêle](Temp%C3%AAte%20de%20gr%C3%AAle%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tempête de neige](Temp%C3%AAte%20de%20neige%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tempête radieuse de Jallarzi](Temp%C3%AAte%20radieuse%20de%20Jallarzi%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tempête vengeresse](Temp%C3%AAte%20vengeresse%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Ténèbres](T%C3%A9n%C3%A8bres%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tentacules de Hadar](Tentacules%20de%20Hadar%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tentacules noirs d'Evard](Tentacules%20noirs%20d'Evard%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Terrain hallucinatoire](Terrain%20hallucinatoire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Texte illusoire](Texte%20illusoire%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Thaumaturgie](Thaumaturgie%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Toile d'araignée](Toile%20d'araign%C3%A9e%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Trait de feu](Trait%20de%20feu%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Trait ensorcelé](Trait%20ensorcel%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tremblement de terre](Tremblement%20de%20terre%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Tsunami](Tsunami%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Urne magique](Urne%20magique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Vague destructrice](Vague%20destructrice%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Vague tonnante](Vague%20tonnante%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Vent divin](Vent%20divin%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Verrou arcanique](Verrou%20arcanique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Vif carquois](Vif%20carquois%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Vigueur arcanique](Vigueur%20arcanique%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Vision dans le noir](Vision%20dans%20le%20noir%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Vision suprême](Vision%20supr%C3%AAme%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Voie végétale](Voie%20v%C3%A9g%C3%A9tale%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Voile défensif](Voile%20d%C3%A9fensif%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Vol](Vol%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Voracité de Hadar](Voracit%C3%A9%20de%20Hadar%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
+- [Zone de vérité](Zone%20de%20v%C3%A9rit%C3%A9%20-%20%C3%A0%20v%C3%A9rifier.md) — à vérifier
