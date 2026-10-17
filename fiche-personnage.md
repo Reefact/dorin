@@ -19,7 +19,16 @@
 
 Dorin est fidèle à ses engagements, à sa parole et aux valeurs de son clan. Son sens du devoir ne consiste pas à obéir aveuglément : il cherche avant tout à protéger les personnes qui ont besoin de lui. Il honore la mémoire de ses proches disparus en prenant soin des vivants.
 
-Même lorsqu’il servait dans la milice, il se plaçait devant les autres pour les défendre plutôt que pour provoquer l’affrontement. Il tient de sa mère Mira son attention aux blessures, approfondie ensuite auprès de Thordek. Il **privilégie les soins, le soutien, la protection et le dialogue**, puis sa propre sécurité pour pouvoir continuer à aider. Il n’attaque qu’en dernier recours, lorsqu’une vie est menacée.
+Même lorsqu’il servait dans la milice, il se plaçait devant les autres pour les défendre plutôt que pour provoquer l’affrontement. Il tient de sa mère Mira son attention aux blessures, approfondie ensuite auprès de Thordek. Il cherche d’abord à **protéger pour éviter d’avoir à guérir**, tout en veillant à sa propre sécurité pour pouvoir continuer à aider. Il ne recourt à l’attaque qu’en dernier ressort, lorsque la protection des autres l’exige.
+
+**Ses priorités, dans cet ordre :**
+
+1. **Protéger** — prévenir les blessures et mettre les autres à l’abri.
+2. **Guérir** — soulager et soigner les blessures qui n’ont pas pu être évitées.
+3. **Comprendre** — écouter, dialoguer et chercher à saisir les situations et les personnes.
+4. **Défendre en attaquant si nécessaire** — employer la force en dernier recours, pour empêcher qu’un mal plus grand soit fait.
+
+Cet ordre guide aussi le choix de ses sorts : mieux vaut empêcher une blessure que devoir la soigner.
 
 Son empathie le pousse à écouter et à comprendre les souffrances, les émotions et les besoins d’autrui avant de juger. Son « Bras d’Acier » incarne cette conviction : **tenir pour que les autres puissent vivre**.
 
