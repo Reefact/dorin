@@ -135,7 +135,7 @@ Dorin sait manier les armes de guerre et porter les armures lourdes. Il privilé
 
 ### Deck par défaut — « Rempart »
 
-La préparation habituelle de Dorin est le **[deck « Rempart »](sorts-disponibles.md#deck-rempart--deck-par-défaut--danger-protection-et-secours)**, orienté vers la protection avant les soins. Ses six sorts au choix sont détaillés uniquement dans [Sorts disponibles](sorts-disponibles.md), avec le deck alternatif « Discernement ». Les quatre sorts du Domaine de la Vie restent toujours préparés en supplément.
+La préparation habituelle de Dorin est le **[deck « Rempart »](sorts-disponibles.md#decks-de-préparation--propositions-pour-dorin)**, orienté vers la protection avant les soins. Ses six sorts au choix sont détaillés uniquement dans [Sorts disponibles](sorts-disponibles.md), avec le deck alternatif « Discernement ». Les quatre sorts du Domaine de la Vie restent toujours préparés en supplément.
 
 ### Ressources magiques
 
