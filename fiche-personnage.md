@@ -161,3 +161,15 @@ La liste des autres sorts accessibles à Dorin figure dans le document [Sorts di
 **Armes renseignées sur la fiche du MJ :** fronde (**+3** à l’attaque, **1d4 + 1** dégâts contondants, propriété *Lente*) ; masse d’armes (**+3** à l’attaque, **1d6 + 1** dégâts contondants, propriété *Affaiblir*).
 
 **Argent de départ : 19 po** (12 po de l’historique et 7 po de la classe).
+
+### Butin des aventures précédentes
+
+- **250 po** récupérées au cours des aventures précédentes.
+- **1 élixir** (nature et effets à préciser).
+- **3 cristaux rouges** récupérés pendant l’aventure *L’Île des Tempêtes* (nom exact et propriétés à préciser).
+
+**Total d’or connu : 269 po**, sous réserve des éventuelles dépenses réalisées depuis le départ.
+
+La **fronde** figure déjà dans l’équipement ci-dessus : il s’agit d’un objet récupéré lors des aventures précédentes.
+
+**Armure :** la fiche conserve provisoirement la chemise de mailles ordinaire et la CA de 16. L’éventuel bonus magique +1 reste à confirmer auprès du MJ.
