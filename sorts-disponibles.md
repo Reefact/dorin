@@ -86,7 +86,7 @@ Ces trois sorts sont utilisables **à volonté**, sans emplacement de sort.
 - [Flamme sacrée](regles-de-reference/sorts/Flamme%20sacr%C3%A9e.md)
 - [Glas](regles-de-reference/sorts/Glas.md)
 - [Lumière](regles-de-reference/sorts/Lumi%C3%A8re.md)
-- [Mot de radiance](regles-de-reference/sorts/Mot%20de%20radiance%20-%20%C3%A0%20v%C3%A9rifier.md) — **description partielle**
+- [Mot de radiance](regles-de-reference/sorts/Mot%20de%20radiance.md)
 - [Résistance](regles-de-reference/sorts/R%C3%A9sistance.md)
 - [Thaumaturgie](regles-de-reference/sorts/Thaumaturgie.md)
 
@@ -144,4 +144,3 @@ Ces sorts peuvent entrer dans la sélection quotidienne de Dorin.
 
 Ces sorts peuvent entrer dans la sélection quotidienne de Dorin.
 
-**Description partielle :** la fiche [Mot de radiance](regles-de-reference/sorts/Mot%20de%20radiance%20-%20%C3%A0%20v%C3%A9rifier.md) doit encore être complétée.
