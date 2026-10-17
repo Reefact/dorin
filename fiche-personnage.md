@@ -41,22 +41,22 @@ Dorin n’a jamais décidé de se consacrer à Ilmater. Au fil des épreuves et 
 | Charisme | **12** | **+1** |
 | Constitution | **15** | **+2** |
 | Dextérité | **12** | **+1** |
-| Force | **12** | **+1** |
-| Intelligence | **8** | **−1** |
-| Sagesse | **16** | **+3** |
+| Force | **13** | **+1** |
+| Intelligence | **9** | **−1** |
+| Sagesse | **17** | **+3** |
 
-L’historique Garde apporte **+1 en Force**, **+1 en intelligence**, et **+1 en Sagesse**.
+L’historique Garde apporte **+1 en Force**, **+1 en Intelligence**, et **+1 en Sagesse**.
 
 ## Valeurs de jeu — niveau 3
 
 | Élément | Valeur |
 | --- | ---: |
-| Athlétisme | **+4** |
+| Athlétisme | **+3** |
 | Bonus d’attaque magique de clerc | **+5** |
 | Bonus de maîtrise | **+2** |
-| Classe d’armure (chemise de mailles et bouclier) | **15** |
+| Classe d’armure (chemise de mailles et bouclier) | **16** |
 | DD de sauvegarde des sorts de clerc | **13** |
-| Initiative (don Vigilant) | **+2** |
+| Initiative (don Vigilant) | **+3** |
 | Intuition | **+5** |
 | Jet de sauvegarde de Charisme | **+3** |
 | Jet de sauvegarde de Sagesse | **+5** |
@@ -65,7 +65,7 @@ L’historique Garde apporte **+1 en Force**, **+1 en intelligence**, et **+1 en
 | Perception passive | **15** |
 | Vitesse | **9 m** |
 
-**Points de vie maximum : 11 PV (niveau 1) + ? PV (niveaux 2 et 3, dés lancés avec le MJ).**  
+**Points de vie maximum : 30 PV** (total validé avec le MJ).  
 **Dés de vie : 3d8.**
 
 ## Origines — Clan Grūnvar
@@ -152,10 +152,12 @@ La liste des autres sorts accessibles à Dorin figure dans le document [Sorts di
 | --- | --- |
 | Arbalète légère | Bouclier |
 | Boîte de jeux (dés) | Chemise de mailles |
-| Carreaux (20) et carquois | Masse d’armes |
-| Lance | Paquetage d’ecclésiastique |
-| Lanterne à capote | Symbole sacré |
-| Menottes |  |
+| Carreaux (20) et carquois | Fronde |
+| Lance | Masse d’armes |
+| Lanterne à capote | Paquetage d’ecclésiastique |
+| Menottes | Symbole sacré |
 | Tenue de voyage |  |
+
+**Armes renseignées sur la fiche du MJ :** fronde (**+3** à l’attaque, **1d4 + 1** dégâts contondants, propriété *Lente*) ; masse d’armes (**+3** à l’attaque, **1d6 + 1** dégâts contondants, propriété *Affaiblir*).
 
 **Argent de départ : 19 po** (12 po de l’historique et 7 po de la classe).
