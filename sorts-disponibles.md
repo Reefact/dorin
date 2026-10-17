@@ -1,6 +1,6 @@
-# Dorin — Grimoire des sorts accessibles
+# Dorin — Sorts disponibles
 
-Répertoire des **41 sorts** accessibles à Dorin, Clerc du Domaine de la Vie de niveau 3. Ce document distinct rassemble les possibilités de son grimoire, tandis que sa fiche de personnage ne présente que ses capacités et ses sorts acquis.
+Répertoire des **41 sorts** accessibles à Dorin, clerc du Domaine de la Vie de niveau 3. Il regroupe ses sorts mineurs connus, les sorts qu’il pourra choisir ultérieurement et les sorts de niveau 1 et 2 qu’il peut préparer.
 
 ## Sorts mineurs connus (3)
 
