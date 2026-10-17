@@ -45,7 +45,7 @@ Conformément à la création de personnage 2024, choisir l'une des répartition
 
 Aucune augmentation ne peut porter une caractéristique au-delà de 20.
 
-**Répartition retenue pour Dorin : à définir.**
+**Répartition retenue pour Dorin : +2 en Sagesse et +1 en Force.**
 
 ### Don d’origine — Vigilant
 
@@ -105,15 +105,15 @@ Dorin a d’abord appris le métier de bâtisseur auprès de son père. Il a ens
 
 ## Caractéristiques
 
-**Série standard validée :** répartition de base reprise de l’ancienne fiche de Dorin. Les bonus de l’historique Garde sont encore à attribuer ; les anciens bonus raciaux ne sont pas repris.
+**Série standard et bonus d’historique validés :** répartition de base reprise de l’ancienne fiche de Dorin, avec **+2 en Sagesse et +1 en Force** grâce à l’historique Garde. Les anciens bonus raciaux ne s’appliquent pas en 2024.
 
 | Caractéristique | Valeur avant historique | Bonus d’historique | Valeur finale | Modificateur |
 | --- | --- | --- | --- | --- |
-| Force | **13** | À définir | À définir | À définir |
+| Force | **13** | **+1** | **14** | **+2** |
 | Dextérité | **10** | — | **10** | **+0** |
 | Constitution | **15** | — | **15** | **+2** |
-| Intelligence | **8** | À définir | À définir | À définir |
-| Sagesse | **14** | À définir | À définir | À définir |
+| Intelligence | **8** | — | **8** | **−1** |
+| Sagesse | **14** | **+2** | **16** | **+3** |
 | Charisme | **12** | — | **12** | **+1** |
 
 ## Espèce — Nain
@@ -200,7 +200,7 @@ Dorin acquiert **les deux effets** ci-dessous : il **ne choisit pas définitivem
 - **Sorts de clerc préparés : 6** (à choisir, en plus des sorts du domaine).
 - **Emplacements de sorts : 4** de niveau 1 et **2** de niveau 2.
 
-**Choix restant à réaliser :** caractéristiques et modificateurs, 3 sorts mineurs et 6 sorts préparés, ainsi que les éventuels paramètres de jeu qui en dépendent.
+**Choix restant à réaliser :** 3 sorts mineurs et 6 sorts préparés, ainsi que les autres paramètres de la fiche qui n’ont pas encore été définis.
 
 *Référence : [Clerc, règles françaises 2024 — AideDD](https://www.aidedd.org/regles-24/classes/clerc/).*
 
@@ -215,7 +215,7 @@ Dorin acquiert **les deux effets** ci-dessous : il **ne choisit pas définitivem
 
 ## Combat, sorts et équipement
 
-À compléter après fixation des caractéristiques et des sorts. Dorin est **clerc de niveau 3**, d’Ordre divin **Protecteur**, et relève du **Domaine de la Vie**. Les équipements de départ de **Garde** et de **Clerc** sont validés dans leurs sections respectives (**19 po au total** avant toute dépense).
+À compléter après le choix des sorts et le calcul des valeurs dérivées. Les caractéristiques et les bonus d’historique sont validés. Dorin est **clerc de niveau 3**, d’Ordre divin **Protecteur**, et relève du **Domaine de la Vie**. Les équipements de départ de **Garde** et de **Clerc** sont validés dans leurs sections respectives (**19 po au total** avant toute dépense).
 
 ## Notes de création
 
