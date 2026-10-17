@@ -135,7 +135,7 @@ Valeurs calculées avec les caractéristiques validées, le bonus de maîtrise *
 | DD de sauvegarde des sorts de clerc | **13** | 8 + maîtrise +2 + Sagesse +3 |
 | Bonus d’attaque des sorts de clerc | **+5** | maîtrise +2 + Sagesse +3 |
 
-**Points de vie maximum : à confirmer.** Au niveau 1 : **11 PV** (8 + Constitution +2 + Ténacité naine +1). Si la méthode des **valeurs fixes** est retenue pour les niveaux 2 et 3 : **8 PV** supplémentaires à chaque niveau (5 + Constitution +2 + Ténacité naine +1), soit **27 PV maximum au niveau 3**. Le choix entre valeurs fixes et jets de d8 pour ces deux niveaux n'est pas encore validé. **Dés de vie : 3d8.**
+**Points de vie maximum : 11 PV (base au niveau 1) + ? PV (niveaux 2 et 3).** Les points de vie supplémentaires ont déjà été déterminés aux dés avec le maître de jeu ; leur montant sera renseigné ultérieurement. **Dés de vie : 3d8.**
 
 Les **trois sorts mineurs de clerc** restent à choisir. En règles 2024, un sort mineur peut être remplacé par un autre de la liste de clerc à chaque gain de niveau de clerc ; il n'est pas librement interchangeable à chaque repos long.
 
