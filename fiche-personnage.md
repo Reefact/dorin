@@ -45,7 +45,7 @@ Dorin n’a jamais décidé de se consacrer à Ilmater. Au fil des épreuves et 
 | Intelligence | **8** | **−1** |
 | Sagesse | **16** | **+3** |
 
-L’historique Garde apporte **+1 en Force** et **+2 en Sagesse**.
+L’historique Garde apporte **+1 en Force**, **+1 en intelligence**, et **+1 en Sagesse**.
 
 ## Valeurs de jeu — niveau 3
 
