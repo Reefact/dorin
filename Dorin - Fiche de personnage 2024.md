@@ -14,6 +14,7 @@
 | Historique | **Garde** |
 | Niveau | **3** |
 | Alignement | **Loyal Bon** |
+| Langues | **Commun, nain, gnome** |
 
 ## Alignement — Loyal Bon
 
