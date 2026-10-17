@@ -4,15 +4,15 @@
 
 | Élément | Dorin |
 | --- | --- |
-| Alignement | **Loyal Bon** |
+| Nom | Dorin « Bras d’Acier » Grūnvar |
 | Clan | Grūnvar |
-| Classe | Clerc, niveau **3** |
-| Domaine divin | **Domaine de la Vie** |
 | Espèce | Nain des collines |
 | Historique | **Garde** |
-| Langues | **Commun, gnome et nain** |
-| Nom | Dorin « Bras d’Acier » Grūnvar |
+| Classe | Clerc, niveau **3** |
 | Ordre divin | **Protecteur** |
+| Domaine divin | **Domaine de la Vie** |
+| Alignement | **Loyal Bon** |
+| Langues | **Commun, gnome et nain** |
 
 ## Personnalité et vocation
 
