@@ -1,27 +1,29 @@
 # Boule de feu
 
-**Statut : vérifié** — concordance du SRD 5.2.1 français et d’AideDD (règles 2024).
+**Référence : SRD français 5.2.1 — règles 2024.**
 
 - **Niveau :** 3
 - **École :** Évocation
 - **Classes :** Ensorceleur, Magicien
-- **Temps d’incantation :** 1 action
+- **Temps d’incantation :** action
 - **Portée :** 45 m
-- **Composantes :** V, S, M (guano de chauve-souris et soufre)
-- **Durée :** Instantanée
+- **Composantes :** V, S, M (une boulette de guano de chauve-souris et de soufre)
+- **Durée :** instantanée
+- **Concentration :** Non
+- **Rituel :** Non
 
-## Effets
+## Effets — formulation officielle française
 
-Une explosion frappe une **sphère de 6 m de rayon** centrée sur un point à portée. Chaque créature affectée fait un **jet de sauvegarde de Dextérité** : **8d6 dégâts de feu** sur un échec, moitié sur une réussite. Les objets inflammables non portés s’enflamment.
+Une zébrure éblouissante jaillit de vous jusqu’au point que vous choisissez à portée, produisant une déflagration au grondement sourd. Chaque créature prise dans la Sphère de 6 m de rayon centrée sur ce point d’origine effectue un jet de sauvegarde de Dextérité et subit 8d6 dégâts de feu en cas d’échec, la moitié en cas de réussite. L’explosion embrase les objets inflammables de la zone qui ne sont portés par personne.
 
-## Emplacement supérieur
+## Avec un emplacement de niveau supérieur
 
-**+1d6 dégâts** par niveau d’emplacement au-delà du 3e.
+Les dégâts augmentent de 1d6 par niveau d’emplacement au-delà du 3e.
 
-## Sources et validation
+## Sources
 
-- [SRD officiel français 5.2.1, page 122](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf) — texte sous licence CC BY 4.0.
-- [AideDD, fiche 2024](https://www.aidedd.org/spell/fr/boule-de-feu) — paramètres et mécanique concordants.
-- [Donjon-Dragon, compendium 2024](https://dnd.ratscorporation.com/compendium/sorts) — lien pour vérification complémentaire.
+- [SRD français 5.2.1, page 122](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf#page=122) — texte officiel sous CC BY 4.0.
+- [AideDD — version 2024](https://www.aidedd.org/spell/fr/boule-de-feu) — catalogue et fiche de référence.
+- [Donjon-Dragon — catalogue 2024](https://dnd.ratscorporation.com/compendium/sorts).
 
-Description reformulée en français, sans retranscription littérale du texte officiel.
+Le texte officiel a seulement été reformaté pour supprimer les retours de ligne hérités de la mise en page PDF.

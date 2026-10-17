@@ -1,5 +1,5 @@
 # Dorin
 
-Dossier du personnage Dorin pour Donjons & Dragons (règles 2024).
+Dépôt consacré au personnage Dorin (Donjons & Dragons, règles 2024).
 
-Les caractéristiques propres au personnage sont distinctes des [règles de référence](regles-de-reference/README.md) et du [catalogue des sorts](regles-de-reference/sorts/README.md).
+Les règles générales sont conservées dans les [règles de référence](regles-de-reference/README.md) et le [catalogue des sorts](regles-de-reference/sorts/README.md).

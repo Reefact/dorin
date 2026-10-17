@@ -1,27 +1,25 @@
 # Bouclier
 
-**Statut : vérifié** — concordance du SRD 5.2.1 français et d’AideDD (règles 2024).
+**Référence : SRD français 5.2.1 — règles 2024.**
 
 - **Niveau :** 1
 - **École :** Abjuration
 - **Classes :** Ensorceleur, Magicien
-- **Temps d’incantation :** 1 réaction, quand une attaque vous touche ou que projectile magique vous cible
-- **Portée :** Personnelle
+- **Temps d’incantation :** Réaction, que vous jouez lorsqu’un jet d’attaque vous touche ou que le sort projectile magique vous cible
+- **Portée :** personnelle
 - **Composantes :** V, S
 - **Durée :** 1 round
+- **Concentration :** Non
+- **Rituel :** Non
 
-## Effets
+## Effets — formulation officielle française
 
-Jusqu’au début de votre tour suivant, **+5 à la CA**, y compris contre l’attaque ayant déclenché le sort. Vous ignorez les dégâts du sort *projectile magique*.
+Une barrière imperceptible de force magique vous protège. Jusqu’au début de votre tour suivant, vous recevez un bonus de +5 à la CA, y compris contre l’attaque qui a déclenché le sort, et vous ne subissez aucun dégât de projectile magique.
 
-## Emplacement supérieur
+## Sources
 
-Aucun effet d’amélioration indiqué.
+- [SRD français 5.2.1, page 121](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf#page=121) — texte officiel sous CC BY 4.0.
+- [AideDD — version 2024](https://www.aidedd.org/spell/fr/bouclier) — catalogue et fiche de référence.
+- [Donjon-Dragon — catalogue 2024](https://dnd.ratscorporation.com/compendium/sorts).
 
-## Sources et validation
-
-- [SRD officiel français 5.2.1, page 121](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf) — texte sous licence CC BY 4.0.
-- [AideDD, fiche 2024](https://www.aidedd.org/spell/fr/bouclier) — paramètres et mécanique concordants.
-- [Donjon-Dragon, compendium 2024](https://dnd.ratscorporation.com/compendium/sorts) — lien pour vérification complémentaire.
-
-Description reformulée en français, sans retranscription littérale du texte officiel.
+Le texte officiel a seulement été reformaté pour supprimer les retours de ligne hérités de la mise en page PDF.

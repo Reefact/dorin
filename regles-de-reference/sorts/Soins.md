@@ -1,27 +1,29 @@
 # Soins
 
-**Statut : vérifié** — concordance du SRD 5.2.1 français et d’AideDD (règles 2024).
+**Référence : SRD français 5.2.1 — règles 2024.**
 
 - **Niveau :** 1
 - **École :** Abjuration
 - **Classes :** Barde, Clerc, Druide, Paladin, Rôdeur
-- **Temps d’incantation :** 1 action
-- **Portée :** Contact
+- **Temps d’incantation :** action
+- **Portée :** contact
 - **Composantes :** V, S
-- **Durée :** Instantanée
+- **Durée :** instantanée
+- **Concentration :** Non
+- **Rituel :** Non
 
-## Effets
+## Effets — formulation officielle française
 
-Une créature que vous touchez récupère **2d8 + le modificateur de votre caractéristique d’incantation** points de vie.
+La créature que vous touchez physiquement récupère un nombre de points de vie égal à 2d8 + votre modificateur de caractéristique d’incantation.
 
-## Emplacement supérieur
+## Avec un emplacement de niveau supérieur
 
-**+2d8 points de vie** restaurés par niveau d’emplacement au-delà du 1er.
+Les soins augmentent de 2d8 par niveau d’emplacement au-delà du 1er.
 
-## Sources et validation
+## Sources
 
-- [SRD officiel français 5.2.1, page 177](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf) — texte sous licence CC BY 4.0.
-- [AideDD, fiche 2024](https://www.aidedd.org/spell/fr/soins) — paramètres et mécanique concordants.
-- [Donjon-Dragon, compendium 2024](https://dnd.ratscorporation.com/compendium/sorts) — lien pour vérification complémentaire.
+- [SRD français 5.2.1, page 177](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf#page=177) — texte officiel sous CC BY 4.0.
+- [AideDD — version 2024](https://www.aidedd.org/spell/fr/soins) — catalogue et fiche de référence.
+- [Donjon-Dragon — catalogue 2024](https://dnd.ratscorporation.com/compendium/sorts).
 
-Description reformulée en français, sans retranscription littérale du texte officiel.
+Le texte officiel a seulement été reformaté pour supprimer les retours de ligne hérités de la mise en page PDF.
