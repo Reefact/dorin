@@ -1,36 +1,34 @@
 # Bouche magique
 
-**Statut : vérifié — règles D&D 2024.** Confrontation du Manuel des joueurs français (photographie fournie) et du SRD français 5.2.1 ; une erreur de reformulation relevée dans une source secondaire a été tranchée.
+**Référence : Manuel des joueurs français 2024 et SRD français 5.2.1.** Texte officiel contrôlé avec la photographie du livre fournie par le joueur.
 
 - **Niveau :** 2
 - **École :** Illusion
 - **Classes :** Barde, Magicien
 - **Temps d’incantation :** 1 minute ou rituel
 - **Portée :** 9 m
-- **Composantes :** V, S, M (poudre de jade d’une valeur minimale de 10 po, consommée par le sort)
-- **Durée :** Jusqu’à dissipation
+- **Composantes :** V, S, M (poudre de jade d’une valeur minimale de 10 po, que le sort détruit)
+- **Durée :** jusqu’à dissipation
 - **Concentration :** Non
 - **Rituel :** Oui
 
-## Effet
+## Effets — formulation officielle française
 
-Vous enchantez un **objet visible et à portée**, qui n’est pas porté par une autre créature. Vous prononcez un message de **25 mots maximum** et disposez de **10 minutes pour le peaufiner**. Vous choisissez ensuite la condition qui déclenchera sa diffusion.
+Vous chargez un objet à portée d’un message qui sera prononcé lorsqu’une condition de déclenchement se présentera. Choisissez un objet que vous voyez et qui n’est pas porté par une autre créature. Prononcez alors un message d’un maximum de 25 mots (vous disposez toutefois de 10 minutes pour le peaufiner). Enfin, déterminez les circonstances qui déclencheront la transmission du message par le sort.
 
-Quand cette condition se produit, une bouche magique se manifeste sur l’objet et prononce le message **avec votre voix, au même volume**. Si l’objet présente déjà une ouverture semblable à une bouche, l’effet s’y manifeste.
+Quand cette condition se présente, une bouche magique apparaît sur l’objet et récite le message avec votre voix, au même volume que vous. Si l’objet choisi est lui-même doté d’une ouverture qui peut passer pour une bouche (comme sur une statue d’humanoïde), la bouche magique s’y manifeste et les mots semblent en émaner. À l’incantation du sort, vous pouvez décider que le sort prenne fin après avoir livré son message ou qu’il reste en place et répète son annonce chaque fois que le déclencheur se présente.
 
-Vous choisissez à l’incantation si le sort disparaît après le premier message ou s’il reste actif et répète son annonce à chaque nouveau déclenchement.
+Les circonstances de déclenchement peuvent être générales ou détaillées, à votre convenance, mais doivent correspondre à des conditions visuelles ou auditives intervenant dans un rayon de 9 m de l’objet. Vous pourriez ainsi statuer que la bouche s’exprime quand une créature s’approche à 9 m ou moins de l’objet ou quand une cloche d’argent sonne dans ce même rayon.
 
-Le déclencheur peut être aussi général ou précis que vous le souhaitez, mais doit reposer sur une **condition visuelle ou auditive se produisant à 9 m ou moins de l’objet**. Il peut, par exemple, s’agir de l’approche d’une créature ou du son d’une cloche dans cette zone.
+## Écart résolu entre référentiels
 
-## Précision concernant les traductions
-
-Une transcription communautaire indiquait que **le message pouvait durer jusqu’à 10 minutes**. Cette formulation ne correspond ni au livre français ni au SRD 5.2.1 français : le message est limité à **25 mots**, et les **10 minutes** correspondent au temps laissé pour le préparer. Cet écart est tranché en faveur du texte officiel.
+Un relevé communautaire affirme que le message peut durer 10 minutes. **Cette lecture est incompatible avec le texte officiel 2024** : le message est limité à **25 mots**, tandis que le lanceur bénéficie de **10 minutes pour le peaufiner**. La formulation non conforme n’est pas retenue.
 
 ## Sources
 
-- **Manuel des joueurs 2024, version française :** page photographiée et transmise pour vérification.
-- [SRD 5.2.1 — texte officiel français (CC BY 4.0)](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf).
-- [AideDD — Bouche magique, règles 2024](https://www.aidedd.org/spell/fr/bouche-magique).
-- [Donjon-Dragon — catalogue des sorts 2024](https://dnd.ratscorporation.com/compendium/sorts).
+- **Manuel des joueurs 2024, édition française :** photographie de la page du sort fournie par le joueur.
+- [SRD français 5.2.1, texte officiel sous licence CC BY 4.0](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf).
+- [AideDD — fiche 2024](https://www.aidedd.org/spell/fr/bouche-magique).
+- [Donjon-Dragon — compendium 2024](https://dnd.ratscorporation.com/compendium/sorts).
 
-*Effets reformulés en français à partir des références officielles ; les droits du SRD 5.2.1 et son attribution sont précisés dans `regles-de-reference/README.md`.*
+La description est reproduite d’après la référence officielle française. L’attribution de licence du SRD figure dans [les règles de référence](../README.md).
