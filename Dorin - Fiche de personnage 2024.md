@@ -137,7 +137,7 @@ Valeurs calculées avec les caractéristiques validées, le bonus de maîtrise *
 
 **Points de vie maximum : 11 PV (base au niveau 1) + ? PV (niveaux 2 et 3).** Les points de vie supplémentaires ont déjà été déterminés aux dés avec le maître de jeu ; leur montant sera renseigné ultérieurement. **Dés de vie : 3d8.**
 
-Les **trois sorts mineurs de clerc** restent à choisir. En règles 2024, un sort mineur peut être remplacé par un autre de la liste de clerc à chaque gain de niveau de clerc ; il n'est pas librement interchangeable à chaque repos long.
+Les **trois sorts mineurs de clerc** sont validés : **Réparation, Stabilisation et Assistance**. En règles 2024, un sort mineur peut être remplacé par un autre de la liste de clerc à chaque gain de niveau de clerc ; il n'est pas librement interchangeable à chaque repos long.
 
 ## Espèce — Nain
 
@@ -216,14 +216,24 @@ Dorin acquiert **les deux effets** ci-dessous : il **ne choisit pas définitivem
 - **Survivance :** nouvelle option de **Conduit divin**. Par une action Magie, Dorin répartit jusqu'à **15 points de vie** restaurés (5 × niveau de clerc 3) entre des créatures **En péril** à **9 m** ou moins, lui-même inclus. Il ne peut pas ramener une créature au-dessus de la **moitié de ses points de vie maximum** avec cette capacité.
 - **Sorts du Domaine de la Vie toujours préparés :** **Aide**, **Bénédiction**, **Soins**, **Restauration partielle**. Ils s'ajoutent aux sorts qu'il prépare normalement.
 
+### Sorts mineurs de clerc — choix validés
+
+Au niveau 3, Dorin connaît les trois sorts mineurs choisis au niveau 1, qui traduisent les trois facettes de sa vocation :
+
+- **Réparation** (*Mending*) — l'héritage de son père Harn, bâtisseur : réparer de petites cassures ou déchirures d'objets, selon les limites du sort.
+- **Stabilisation** (*Spare the Dying*) — l'attention aux blessés transmise par sa mère Mira : stabiliser une créature à 0 point de vie, sans lui rendre de points de vie.
+- **Assistance** (*Guidance*) — son empathie et sa volonté de soutenir : aider une créature avec un bonus de 1d4 aux tests de caractéristique utilisant une compétence choisie, dans les conditions du sort.
+
+Ces choix ne sont pas offensifs. Ils ne peuvent pas être remplacés simplement après un repos long ; les règles 2024 permettent d'en remplacer un lors d'un gain de niveau de clerc.
+
 ### Ressources de clerc au niveau 3
 
 - **Bonus de maîtrise : +2.**
-- **Sorts mineurs de clerc : 3** (à choisir).
+- **Sorts mineurs de clerc : 3**, choix validés : **Réparation, Stabilisation, Assistance**.
 - **Sorts de clerc préparés : 6** (à choisir, en plus des sorts du domaine).
 - **Emplacements de sorts : 4** de niveau 1 et **2** de niveau 2.
 
-**Choix restant à réaliser :** 3 sorts mineurs et 6 sorts préparés, ainsi que les autres paramètres de la fiche qui n’ont pas encore été définis.
+**Choix restant à réaliser :** 6 sorts préparés, ainsi que les autres paramètres de la fiche qui n’ont pas encore été définis.
 
 *Référence : [Clerc, règles françaises 2024 — AideDD](https://www.aidedd.org/regles-24/classes/clerc/).*
 
