@@ -135,19 +135,7 @@ Dorin sait manier les armes de guerre et porter les armures lourdes. Il privilé
 
 ### Deck par défaut — « Rempart »
 
-**Préparation habituelle de Dorin :** six sorts choisis pour **protéger avant de guérir**, puis apaiser les conflits. Ils s'ajoutent aux quatre sorts du Domaine de la Vie, qui restent toujours préparés.
-
-**Niveau 1 — 4 sorts préparés :**
-- [Bouclier de la foi](regles-de-reference/sorts/Bouclier%20de%20la%20foi.md) — protéger un allié exposé.
-- [Injonction](regles-de-reference/sorts/Injonction.md) — arrêter une menace sans nécessairement attaquer.
-- [Mot de guérison](regles-de-reference/sorts/Mot%20de%20gu%C3%A9rison.md) — soigner rapidement un allié à distance.
-- [Sanctuaire](regles-de-reference/sorts/Sanctuaire.md) — préserver une personne menacée.
-
-**Niveau 2 — 2 sorts préparés :**
-- [Apaisement des émotions](regles-de-reference/sorts/Apaisement%20des%20%C3%A9motions.md) — prévenir ou désamorcer une escalade.
-- [Prière de guérison](regles-de-reference/sorts/Pri%C3%A8re%20de%20gu%C3%A9rison.md) — soigner le groupe hors combat (incantation de 10 minutes).
-
-**À retenir :** « Rempart » est son **deck par défaut**, pas un ensemble figé : Dorin peut modifier sa sélection à la fin d'un repos long. Il ne peut maintenir qu'un seul sort nécessitant de la concentration à la fois. Le deck alternatif « Discernement » et les explications détaillées figurent dans [Sorts disponibles](sorts-disponibles.md#decks-de-préparation--propositions-pour-dorin).
+La préparation habituelle de Dorin est le **[deck « Rempart »](sorts-disponibles.md#deck-rempart--deck-par-défaut--danger-protection-et-secours)**, orienté vers la protection avant les soins. Ses six sorts au choix sont détaillés uniquement dans [Sorts disponibles](sorts-disponibles.md), avec le deck alternatif « Discernement ». Les quatre sorts du Domaine de la Vie restent toujours préparés en supplément.
 
 ### Ressources magiques
 
