@@ -65,7 +65,7 @@ Dorin est un nain des collines, élevé dans le bastion du clan Grūnvar. Il a a
 - **Humanoïde de taille M.**
 - **Vision dans le noir :** 36 m.
 - **Résistance naine :** résistance aux dégâts de poison ; avantage aux jets de sauvegarde pour éviter l’état Empoisonné ou y mettre fin.
-- **Ténacité naine :** maximum de points de vie augmenté de **1 par niveau** (soit **+3 PV** au niveau 3, déjà pris en compte dans le calcul de ses PV).
+- **Ténacité naine :** maximum de points de vie augmenté de **1 par niveau** (soit **+3 PV** au niveau 3 : +1 est déjà inclus dans les 11 PV du niveau 1 ; les +2 des niveaux suivants entrent dans le total à confirmer avec le MJ).
 - **Connaissance de la pierre :** par une action bonus, Dorin obtient la **Perception des vibrations à 18 m pendant 10 minutes** lorsqu’il touche une surface de pierre. **2 utilisations**, récupérées après un repos long.
 
 ## Historique — Garde
