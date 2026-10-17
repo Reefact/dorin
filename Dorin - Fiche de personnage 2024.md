@@ -99,7 +99,37 @@ Dorin a d’abord appris le métier de bâtisseur auprès de son père. Il a ens
 
 ## Espèce — Nain
 
-**Traits de l’espèce en version 2024 : à renseigner.**
+**Référence :** *Manuel des joueurs 2024*, chapitre 4 « Origine des personnages », espèce **Nain** (p. 194 de l’édition française indiquée par le joueur).
+
+### Type, taille et déplacement
+
+| Élément | Valeur |
+| --- | --- |
+| Type de créature | **Humanoïde** |
+| Catégorie de taille | **M (Moyenne)** |
+| Taille habituelle de l’espèce | **1,20 à 1,50 m** |
+| Vitesse | **9 m** |
+| Longévité indicative | Environ **350 ans** (description de l’espèce, pas une règle de combat) |
+
+### Traits des nains (règles 2024)
+
+- **Vision dans le noir :** portée de **36 m**. Dorin voit dans l’obscurité dans les conditions prévues par la règle *Vision dans le noir*.
+- **Résilience naine :** résistance aux **dégâts de poison**. Dorin bénéficie aussi de l’**avantage** aux jets de sauvegarde destinés à éviter l’état **Empoisonné** ou à y mettre fin.
+- **Ténacité naine :** son **maximum de points de vie augmente de 1 au niveau 1**, puis de **1 supplémentaire chaque fois qu’il gagne un niveau**. Cela correspond à **+1 PV maximal par niveau**.
+- **Connaissance de la pierre :** par une **action bonus**, Dorin obtient la **Perception des vibrations** à **18 m** pendant **10 minutes**, à condition d’être sur une surface de pierre ou en contact avec une telle surface (naturelle ou travaillée). Il peut activer ce trait un nombre de fois égal à son **bonus de maîtrise** et récupère toutes ses utilisations après un **repos long**.
+
+### Origines de Dorin : nain des collines
+
+Dorin est un **nain des collines du clan Grūnvar**, conformément à sa biographie. Cette origine reste déterminante pour son histoire, sa culture et son attachement à la pierre.
+
+**En 2024, « nain des collines » n’est pas une sous-espèce mécanique distincte** dans le *Manuel des joueurs* : Dorin reçoit les traits communs de l’espèce **Nain**, sans bonus de caractéristique ou autre aptitude supplémentaire liés à cette dénomination. Les augmentations de caractéristiques proviennent de son historique **Garde**.
+
+*Attention : ne pas importer les anciennes règles des nains des collines (notamment les bonus raciaux de caractéristiques de 2014).*
+
+### Références de vérification
+
+- [AideDD — Description des espèces 2024, Nain](https://www.aidedd.org/regles-24/origines-des-personnages/description-des-especes/)
+- [D&D Beyond — Dwarf, Player’s Handbook 2024](https://www.dndbeyond.com/species/1751436-dwarf)
 
 ## Classe — Clerc
 
