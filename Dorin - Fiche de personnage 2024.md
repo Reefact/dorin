@@ -10,9 +10,9 @@
 | Espèce | Nain |
 | Clan et origines | Grūnvar ; nain des collines dans la biographie (information narrative) |
 | Classe | Clerc |
-| Domaine divin | Domaine de la Vie (à intégrer selon la progression 2024) |
+| Domaine divin | **Domaine de la Vie** (sous-classe, niveau 3) |
 | Historique | **Garde** |
-| Niveau | À définir |
+| Niveau | **3** |
 | Alignement | À définir |
 
 ## Historique — Garde
@@ -162,11 +162,37 @@ Dorin est un **nain des collines du clan Grūnvar**, conformément à sa biograp
 - Paquetage d’ecclésiastique
 - **7 po** (pièces d’or)
 
-### Choix de classe restant à effectuer
+### Niveau 1 — Ordre divin : Protecteur
 
-- **Ordre divin (niveau 1) :** Protecteur ou Thaumaturge — **à définir**.
-- **Sorts du Clerc :** à déterminer selon le niveau retenu.
-- **Sous-classe envisagée au niveau 3 :** **Domaine de la Vie**, conformément à la biographie.
+**Choix validé : Protecteur.** Dorin gagne la maîtrise des **armes de guerre** et la formation aux **armures lourdes**. Ces maîtrises sont conservées aux niveaux suivants.
+
+### Niveau 2 — Conduit divin
+
+Dorin acquiert **les deux effets** ci-dessous : il **ne choisit pas définitivement entre eux**. Il sélectionne l'effet à produire chaque fois qu'il dépense une utilisation du Conduit divin.
+
+- **Étincelle divine :** par une action Magie, Dorin cible une autre créature qu'il voit à **9 m** ou moins. Il lance **1d8 + son modificateur de Sagesse** pour soit lui rendre autant de points de vie, soit lui infliger ce montant en dégâts **radiants ou nécrotiques**, avec un **jet de sauvegarde de Constitution** (moitié des dégâts en cas de réussite).
+- **Renvoi des morts-vivants :** par une action Magie, Dorin présente son symbole sacré ; les morts-vivants de son choix dans un rayon de **9 m** effectuent un **jet de sauvegarde de Sagesse**. En cas d'échec, ils sont **Effrayés et Incapables d'agir** pendant au plus **1 minute**, tentent de s'éloigner et peuvent rompre cet effet dans les conditions prévues par la règle.
+
+**Réserve commune : 2 utilisations du Conduit divin** au niveau 3, quel que soit l'effet employé. Dorin récupère **1 utilisation après un repos court** et **toutes après un repos long**. Le DD des jets de sauvegarde est celui de ses sorts de clerc (à calculer à partir de sa Sagesse).
+
+### Niveau 3 — Sous-classe : Domaine de la Vie
+
+**Choix confirmé : Domaine de la Vie.** Dorin conserve l'Ordre divin Protecteur et les deux effets de Conduit divin acquis auparavant.
+
+- **Disciple de la Vie :** quand un sort lancé en dépensant un emplacement restaure des points de vie, la cible récupère **2 + niveau de l'emplacement** points de vie supplémentaires au tour où le sort est lancé.
+- **Survivance :** nouvelle option de **Conduit divin**. Par une action Magie, Dorin répartit jusqu'à **15 points de vie** restaurés (5 × niveau de clerc 3) entre des créatures **En péril** à **9 m** ou moins, lui-même inclus. Il ne peut pas ramener une créature au-dessus de la **moitié de ses points de vie maximum** avec cette capacité.
+- **Sorts du Domaine de la Vie toujours préparés :** **Aide**, **Bénédiction**, **Soins**, **Restauration partielle**. Ils s'ajoutent aux sorts qu'il prépare normalement.
+
+### Ressources de clerc au niveau 3
+
+- **Bonus de maîtrise : +2.**
+- **Sorts mineurs de clerc : 3** (à choisir).
+- **Sorts de clerc préparés : 6** (à choisir, en plus des sorts du domaine).
+- **Emplacements de sorts : 4** de niveau 1 et **2** de niveau 2.
+
+**Choix restant à réaliser :** caractéristiques et modificateurs, 3 sorts mineurs et 6 sorts préparés, ainsi que les éventuels paramètres de jeu qui en dépendent.
+
+*Référence : [Clerc, règles françaises 2024 — AideDD](https://www.aidedd.org/regles-24/classes/clerc/).*
 
 [Source complémentaire : SRD français 5.2.1, Clerc](https://media.dndbeyond.com/compendium-images/srd/5.2/FR_SRD_CC_v5.2.1.pdf).
 
@@ -179,7 +205,7 @@ Dorin est un **nain des collines du clan Grūnvar**, conformément à sa biograp
 
 ## Combat, sorts et équipement
 
-À compléter après fixation des caractéristiques, du niveau, de l’Ordre divin et des sorts. Les équipements de départ de **Garde** et de **Clerc** sont tous deux validés dans leurs sections respectives (**19 po au total** avant toute dépense).
+À compléter après fixation des caractéristiques et des sorts. Dorin est **clerc de niveau 3**, d’Ordre divin **Protecteur**, et relève du **Domaine de la Vie**. Les équipements de départ de **Garde** et de **Clerc** sont validés dans leurs sections respectives (**19 po au total** avant toute dépense).
 
 ## Notes de création
 
