@@ -4,13 +4,13 @@ Répertoire des **41 sorts** accessibles à Dorin, clerc du Domaine de la Vie de
 
 ## Decks de préparation — propositions pour Dorin
 
-Ces **deux decks** sont des sélections de **6 sorts au choix**, adaptées à différentes phases de l'aventure. Les sorts suivent **l'ordre de priorité de Dorin : 1. protéger ; 2. guérir ; 3. comprendre ; 4. défendre en attaquant si nécessaire**. Il privilégie donc la prévention des blessures plutôt que leur réparation, et ne recourt à l'offensive qu'en dernier ressort. Aucun deck n'est déclaré « actuellement préparé » tant que le joueur ne l'a pas choisi.
+Ces **deux decks** sont des sélections de **6 sorts au choix**, adaptées à différentes phases de l'aventure. Les sorts suivent **l'ordre de priorité de Dorin : 1. protéger ; 2. guérir ; 3. comprendre ; 4. défendre en attaquant si nécessaire**. Il privilégie donc la prévention des blessures plutôt que leur réparation, et ne recourt à l'offensive qu'en dernier ressort. **« Rempart » est le deck par défaut de Dorin** : sa sélection habituelle de six sorts. « Discernement » constitue une alternative à préparer après un repos long selon les besoins de l'aventure.
 
 **Socle commun à chaque deck :**
 - **Toujours préparés grâce au Domaine de la Vie :** [Aide](regles-de-reference/sorts/Aide.md), [Bénédiction](regles-de-reference/sorts/B%C3%A9n%C3%A9diction.md), [Restauration partielle](regles-de-reference/sorts/Restauration%20partielle.md) et [Soins](regles-de-reference/sorts/Soins.md). Ils s'ajoutent aux six sorts du deck.
 - **Sorts mineurs connus :** [Assistance](regles-de-reference/sorts/Assistance.md), [Réparation](regles-de-reference/sorts/R%C3%A9paration.md) et [Stabilisation](regles-de-reference/sorts/Stabilisation.md). Ils ne sont pas à préparer à nouveau.
 
-### Deck « Rempart » — danger, protection et secours
+### Deck « Rempart » — deck par défaut : danger, protection et secours
 
 **À préparer quand un affrontement est probable.** L'objectif n'est pas d'attaquer, mais d'empêcher les blessures, d'assister les compagnons et de désamorcer la violence.
 
