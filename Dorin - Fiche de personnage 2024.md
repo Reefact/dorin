@@ -137,7 +137,7 @@ Valeurs calculées avec les caractéristiques validées, le bonus de maîtrise *
 
 **Points de vie maximum : 11 PV (base au niveau 1) + ? PV (niveaux 2 et 3).** Les points de vie supplémentaires ont déjà été déterminés aux dés avec le maître de jeu ; leur montant sera renseigné ultérieurement. **Dés de vie : 3d8.**
 
-Les **trois sorts mineurs de clerc** sont validés : **Réparation, Stabilisation et Assistance**. En règles 2024, un sort mineur peut être remplacé par un autre de la liste de clerc à chaque gain de niveau de clerc ; il n'est pas librement interchangeable à chaque repos long.
+Les **trois sorts mineurs de clerc** sont validés : **[Réparation](regles-de-reference/sorts/R%C3%A9paration.md), [Stabilisation](regles-de-reference/sorts/Stabilisation.md) et [Assistance](regles-de-reference/sorts/Assistance.md)**. En règles 2024, un sort mineur peut être remplacé par un autre de la liste de clerc à chaque gain de niveau de clerc ; il n'est pas librement interchangeable à chaque repos long.
 
 ## Espèce — Nain
 
@@ -214,22 +214,22 @@ Dorin acquiert **les deux effets** ci-dessous : il **ne choisit pas définitivem
 
 - **Disciple de la Vie :** quand un sort lancé en dépensant un emplacement restaure des points de vie, la cible récupère **2 + niveau de l'emplacement** points de vie supplémentaires au tour où le sort est lancé.
 - **Survivance :** nouvelle option de **Conduit divin**. Par une action Magie, Dorin répartit jusqu'à **15 points de vie** restaurés (5 × niveau de clerc 3) entre des créatures **En péril** à **9 m** ou moins, lui-même inclus. Il ne peut pas ramener une créature au-dessus de la **moitié de ses points de vie maximum** avec cette capacité.
-- **Sorts du Domaine de la Vie toujours préparés :** **Aide**, **Bénédiction**, **Soins**, **Restauration partielle**. Ils s'ajoutent aux sorts qu'il prépare normalement.
+- **Sorts du Domaine de la Vie toujours préparés :** **[Aide](regles-de-reference/sorts/Aide.md)**, **[Bénédiction](regles-de-reference/sorts/B%C3%A9n%C3%A9diction.md)**, **[Soins](regles-de-reference/sorts/Soins.md)**, **[Restauration partielle](regles-de-reference/sorts/Restauration%20partielle.md)**. Ils s'ajoutent aux sorts qu'il prépare normalement.
 
 ### Sorts mineurs de clerc — choix validés
 
 Au niveau 3, Dorin connaît les trois sorts mineurs choisis au niveau 1, qui traduisent les trois facettes de sa vocation :
 
-- **Réparation** (*Mending*) — l'héritage de son père Harn, bâtisseur : réparer de petites cassures ou déchirures d'objets, selon les limites du sort.
-- **Stabilisation** (*Spare the Dying*) — l'attention aux blessés transmise par sa mère Mira : stabiliser une créature à 0 point de vie, sans lui rendre de points de vie.
-- **Assistance** (*Guidance*) — son empathie et sa volonté de soutenir : aider une créature avec un bonus de 1d4 aux tests de caractéristique utilisant une compétence choisie, dans les conditions du sort.
+- **[Réparation](regles-de-reference/sorts/R%C3%A9paration.md)** (*Mending*) — l'héritage de son père Harn, bâtisseur : réparer de petites cassures ou déchirures d'objets, selon les limites du sort.
+- **[Stabilisation](regles-de-reference/sorts/Stabilisation.md)** (*Spare the Dying*) — l'attention aux blessés transmise par sa mère Mira : stabiliser une créature à 0 point de vie, sans lui rendre de points de vie.
+- **[Assistance](regles-de-reference/sorts/Assistance.md)** (*Guidance*) — son empathie et sa volonté de soutenir : aider une créature avec un bonus de 1d4 aux tests de caractéristique utilisant une compétence choisie, dans les conditions du sort.
 
 Ces choix ne sont pas offensifs. Ils ne peuvent pas être remplacés simplement après un repos long ; les règles 2024 permettent d'en remplacer un lors d'un gain de niveau de clerc.
 
 ### Ressources de clerc au niveau 3
 
 - **Bonus de maîtrise : +2.**
-- **Sorts mineurs de clerc : 3**, choix validés : **Réparation, Stabilisation, Assistance**.
+- **Sorts mineurs de clerc : 3**, choix validés : **[Réparation](regles-de-reference/sorts/R%C3%A9paration.md), [Stabilisation](regles-de-reference/sorts/Stabilisation.md), [Assistance](regles-de-reference/sorts/Assistance.md)**.
 - **Sorts de clerc préparés : 6** (à choisir, en plus des sorts du domaine).
 - **Emplacements de sorts : 4** de niveau 1 et **2** de niveau 2.
 
@@ -324,7 +324,7 @@ Ils sont automatiquement préparés et **ne comptent pas dans les six sorts pré
 
 **0 / 6 sorts librement préparés sélectionnés.** Les quatre sorts du Domaine de la Vie sont acquis **en plus**. Aucun des 28 sorts optionnels n'est présumé choisi. Pour les futurs choix, respecter la vocation de Dorin : **soins et protection d'autrui, empathie et entraide, protection de soi, attaque seulement en dernier recours**.
 
-**Attention aux deux références incomplètes :** les fichiers de *Glas* et *Mot de radiance* comportent la mention « à vérifier », car ils ne sont pas intégralement reproduits dans le SRD 5.2.1. Consulter le *Manuel des joueurs 2024* pour leurs règles complètes.
+**Attention aux deux références incomplètes :** les fichiers de *[Glas](regles-de-reference/sorts/Glas%20-%20%C3%A0%20v%C3%A9rifier.md)* et *[Mot de radiance](regles-de-reference/sorts/Mot%20de%20radiance%20-%20%C3%A0%20v%C3%A9rifier.md)* comportent la mention « à vérifier », car ils ne sont pas intégralement reproduits dans le SRD 5.2.1. Consulter le *Manuel des joueurs 2024* pour leurs règles complètes.
 
 Sources : [Clerc 2024 — AideDD](https://www.aidedd.org/regles-24/classes/clerc/), [liste des sorts de clerc 2024 — D&D Beyond](https://www.dndbeyond.com/classes/2190877-cleric) et [catalogue des fiches Markdown](regles-de-reference/sorts/README.md).
 
@@ -346,3 +346,4 @@ Sources : [Clerc 2024 — AideDD](https://www.aidedd.org/regles-24/classes/clerc
 - Ne pas modifier les documents biographiques ou la précédente fiche.
 - Ne pas confondre les règles du *Manuel des joueurs 2024* avec le contenu plus restreint du SRD 5.2.1.
 - Les informations encore ouvertes ne constituent pas des choix validés.
+- **Convention pour les sorts :** chaque mention d'un sort doit comporter un lien vers sa fiche `.md` du dossier `regles-de-reference/sorts/`. Ne pas confondre ces sorts avec les objets ou traits d'espèce portant éventuellement le même nom.
