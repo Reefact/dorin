@@ -1,40 +1,22 @@
 # Glas
 
-**Référence :** *Manuel des joueurs* 2024 — description vérifiée à partir de la photographie fournie par le joueur. Ce sort n'est pas inclus dans le SRD 5.2.1.
+*Nécromancie mineure (Clerc, Magicien, Occultiste)*
 
-- **Niveau :** sort mineur
-- **École :** Nécromancie
-- **Classes :** Clerc, Magicien, Occultiste
-- **Temps d’incantation :** action
-- **Portée :** 18 m
-- **Composantes :** V, S
-- **Durée :** instantanée
-- **Concentration :** Non
-- **Rituel :** Non
+**Temps d’incantation :** action  
+**Portée :** 18 m  
+**Composantes :** V, S  
+**Durée :** instantanée
 
-## Effets
+## Description officielle
 
-Vous désignez une créature visible à portée. Un tintement de cloche se fait entendre autour d'elle, audible dans un rayon de **3 m**. La cible effectue un **jet de sauvegarde de Sagesse** :
+Vous pointez du doigt une créature que vous voyez à portée et le tintement mélancolique d’une cloche résonne autour d’elle, audible dans un rayon de 3 m. La cible doit réussir un jet de sauvegarde de Sagesse sous peine de subir 1d8 dégâts nécrotiques. S’il lui manquait déjà au moins un point de vie, elle subit en fait 1d12 dégâts nécrotiques.
 
-- **Échec :** elle subit **1d8 dégâts nécrotiques**.
-- **Échec alors qu'elle a déjà perdu au moins 1 point de vie :** elle subit **1d12 dégâts nécrotiques** à la place.
-- **Réussite :** elle ne subit aucun dégât.
-
-## Amélioration du sort mineur
-
-Les dégâts augmentent selon le **niveau du personnage** :
-
-| Niveau | Cible indemne | Cible ayant déjà perdu des PV |
-| --- | --- | --- |
-| 1 à 4 | **1d8** | **1d12** |
-| 5 à 10 | **2d8** | **2d12** |
-| 11 à 16 | **3d8** | **3d12** |
-| 17 et plus | **4d8** | **4d12** |
+*Amélioration de sort mineur.* Les dégâts augmentent d’un dé lorsque vous atteignez les niveaux 5 (2d8 ou 2d12), 11 (3d8 ou 3d12) et 17 (4d8 ou 4d12).
 
 ## Disponibilité pour Dorin
 
-**Glas est accessible aux clercs, mais Dorin ne l'a pas choisi parmi ses trois sorts mineurs.** Il ne peut donc pas le lancer actuellement.
+Dorin n’a pas choisi Glas parmi ses trois sorts mineurs connus. Il ne peut donc pas le lancer actuellement.
 
 ## Source
 
-- *Manuel des joueurs* 2024, entrée « Glas » (photographie fournie par le joueur).
+*Manuel des joueurs* 2024, entrée « Glas » — transcription du texte officiel à partir de la photographie fournie par le joueur.
