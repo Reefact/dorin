@@ -11,6 +11,7 @@
 | Classe | Clerc, niveau **3** |
 | Ordre divin | **Protecteur** |
 | Domaine divin | **Domaine de la Vie** |
+| Divinité | **Ilmater** |
 | Alignement | **Loyal Bon** |
 | Langues | **Commun, gnome et nain** |
 
