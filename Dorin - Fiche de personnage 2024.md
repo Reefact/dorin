@@ -59,23 +59,17 @@ Ces deux maîtrises sont conférées par l’historique.
 
 ### Équipement de départ de l’historique
 
-Choisir **une seule** des deux options :
+**Équipement retenu pour Dorin :**
 
-**Option A — Équipement**
 - Lance
 - Arbalète légère
 - 20 carreaux
+- Carquois
 - Boîte de jeux correspondant à la maîtrise choisie
 - Lanterne à capote
 - Menottes
-- Carquois
 - Tenue de voyage
 - **12 po** (pièces d’or)
-
-**Option B — Or**
-- **50 po** (pièces d’or)
-
-**Option retenue pour Dorin : à définir.**
 
 ### Interprétation pour Dorin
 
@@ -120,7 +114,7 @@ Dorin a d’abord appris le métier de bâtisseur auprès de son père. Il a ens
 
 ## Combat, sorts et équipement
 
-À renseigner une fois les caractéristiques, le niveau, les choix de classe et l'option d'équipement fixés.
+À renseigner une fois les caractéristiques, le niveau et les choix de classe fixés. L’équipement de l’historique Garde est déjà choisi ci-dessus.
 
 ## Notes de création
 
