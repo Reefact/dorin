@@ -4,7 +4,7 @@ Répertoire des **41 sorts** accessibles à Dorin, clerc du Domaine de la Vie de
 
 ## Decks de préparation — propositions pour Dorin
 
-Ces **deux decks** sont des sélections de **6 sorts au choix**, adaptées à différentes phases de l'aventure. Dorin reste fidèle à sa vocation : **protéger, soigner, comprendre et éviter la violence quand il le peut**. Aucun deck n'est déclaré « actuellement préparé » tant que le joueur ne l'a pas choisi.
+Ces **deux decks** sont des sélections de **6 sorts au choix**, adaptées à différentes phases de l'aventure. Les sorts suivent **l'ordre de priorité de Dorin : 1. protéger ; 2. guérir ; 3. comprendre ; 4. défendre en attaquant si nécessaire**. Il privilégie donc la prévention des blessures plutôt que leur réparation, et ne recourt à l'offensive qu'en dernier ressort. Aucun deck n'est déclaré « actuellement préparé » tant que le joueur ne l'a pas choisi.
 
 **Socle commun à chaque deck :**
 - **Toujours préparés grâce au Domaine de la Vie :** [Aide](regles-de-reference/sorts/Aide.md), [Bénédiction](regles-de-reference/sorts/B%C3%A9n%C3%A9diction.md), [Restauration partielle](regles-de-reference/sorts/Restauration%20partielle.md) et [Soins](regles-de-reference/sorts/Soins.md). Ils s'ajoutent aux six sorts du deck.
