@@ -105,16 +105,16 @@ Dorin a d’abord appris le métier de bâtisseur auprès de son père. Il a ens
 
 ## Caractéristiques
 
-**À reconstruire selon les règles 2024**, sans recopier les anciennes valeurs ni les anciens bonus d’espèce.
+**Série standard validée :** répartition de base reprise de l’ancienne fiche de Dorin. Les bonus de l’historique Garde sont encore à attribuer ; les anciens bonus raciaux ne sont pas repris.
 
 | Caractéristique | Valeur avant historique | Bonus d’historique | Valeur finale | Modificateur |
 | --- | --- | --- | --- | --- |
-| Force | À définir | À définir | À définir | À définir |
-| Dextérité | À définir | — | À définir | À définir |
-| Constitution | À définir | — | À définir | À définir |
-| Intelligence | À définir | À définir | À définir | À définir |
-| Sagesse | À définir | À définir | À définir | À définir |
-| Charisme | À définir | — | À définir | À définir |
+| Force | **13** | À définir | À définir | À définir |
+| Dextérité | **10** | — | **10** | **+0** |
+| Constitution | **15** | — | **15** | **+2** |
+| Intelligence | **8** | À définir | À définir | À définir |
+| Sagesse | **14** | À définir | À définir | À définir |
+| Charisme | **12** | — | **12** | **+1** |
 
 ## Espèce — Nain
 
