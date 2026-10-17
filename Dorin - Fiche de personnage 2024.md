@@ -124,8 +124,6 @@ Dorin est un **nain des collines du clan Grūnvar**, conformément à sa biograp
 
 **En 2024, « nain des collines » n’est pas une sous-espèce mécanique distincte** dans le *Manuel des joueurs* : Dorin reçoit les traits communs de l’espèce **Nain**, sans bonus de caractéristique ou autre aptitude supplémentaire liés à cette dénomination. Les augmentations de caractéristiques proviennent de son historique **Garde**.
 
-*Attention : ne pas importer les anciennes règles des nains des collines (notamment les bonus raciaux de caractéristiques de 2014).*
-
 ### Références de vérification
 
 - [AideDD — Description des espèces 2024, Nain](https://www.aidedd.org/regles-24/origines-des-personnages/description-des-especes/)
