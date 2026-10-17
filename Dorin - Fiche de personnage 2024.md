@@ -257,7 +257,7 @@ Cette section répertorie **tous les sorts de clerc de niveau 0, 1 et 2** access
 
 Ces trois sorts sont utilisables **à volonté**, sans emplacement de sort.
 
-### B. Autres sorts mineurs possibles — non connus (6)
+### B. Sorts mineurs disponibles, mais non choisis (6)
 
 - [Lumière](regles-de-reference/sorts/Lumi%C3%A8re.md)
 - [Résistance](regles-de-reference/sorts/R%C3%A9sistance.md)
