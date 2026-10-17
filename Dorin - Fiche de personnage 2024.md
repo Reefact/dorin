@@ -23,6 +23,8 @@ Dorin est Loyal Bon parce qu'il se montre fidèle à ses engagements et cherche 
 
 Dorin n'est pas un guerrier qui cherche l'affrontement : même lorsqu'il était garde, il se plaçait devant les autres pour les défendre, pas pour attaquer. Il tient de sa mère Mira son attention aux blessures et aux soins, approfondie ensuite auprès de Thordek. **Tous ses futurs choix de sorts, capacités et équipement doivent suivre cet ordre de priorité : d'abord soigner, soutenir et protéger les autres ; ensuite se protéger lui-même pour rester capable de les aider ; enfin recourir à l'attaque, seulement si elle est nécessaire pour écarter une menace.** Son Bras d'Acier symbolise cette conviction : tenir pour que les autres puissent vivre.
 
+**L'empathie est une autre facette essentielle de Dorin.** Il cherche à écouter, à comprendre les émotions, les besoins et les souffrances d'autrui avant de juger ou de réagir. Cette attention aux autres doit aussi guider ses futurs choix de sorts et de capacités : privilégier les moyens d'apaiser, de rassurer, de communiquer, de soutenir et de résoudre les conflits sans violence. Les options de compréhension et d'entraide passent, elles aussi, avant les capacités offensives. Dorin sait se battre lorsque cela devient nécessaire pour protéger une vie, mais il cherche d'abord à éviter que quelqu'un souffre.
+
 ## Historique — Garde
 
 **Référence :** *Manuel des joueurs 2024*, historique **Garde** (*Guard* en anglais). Cet historique figure dans le Manuel des joueurs 2024, **mais pas parmi les quatre historiques publiés dans le SRD 5.2.1**.
