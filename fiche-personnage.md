@@ -36,31 +36,31 @@ Dorin n’a jamais décidé de se consacrer à Ilmater. Au fil des épreuves et 
 
 ## Caractéristiques
 
-| Caractéristique | Valeur | Modificateur |
-| --- | ---: | ---: |
-| Charisme | **12** | **+1** |
-| Constitution | **15** | **+2** |
-| Dextérité | **12** | **+1** |
-| Force | **13** | **+1** |
-| Intelligence | **9** | **−1** |
-| Sagesse | **17** | **+3** |
+| Caractéristique | Valeur de base | Bonus d’historique | Valeur finale | Modificateur |
+| --- | ---: | ---: | ---: | ---: |
+| Force | 13 | +1 | **14** | **+2** |
+| Dextérité | 12 | — | **12** | **+1** |
+| Constitution | 14 | — | **14** | **+2** |
+| Intelligence | 8 | +1 | **9** | **−1** |
+| Sagesse | 15 | +1 | **16** | **+3** |
+| Charisme | 10 | — | **10** | **+0** |
 
-L’historique Garde apporte **+1 en Force**, **+1 en Intelligence**, et **+1 en Sagesse**.
+Les valeurs finales incluent les bonus de l’historique **Garde** : **+1 en Force**, **+1 en Intelligence** et **+1 en Sagesse**. Répartition confirmée par le MJ.
 
 ## Valeurs de jeu — niveau 3
 
 | Élément | Valeur |
 | --- | ---: |
-| Athlétisme | **+3** |
+| Athlétisme | **+4** |
 | Bonus d’attaque magique de clerc | **+5** |
 | Bonus de maîtrise | **+2** |
 | Classe d’armure (chemise de mailles et bouclier) | **16** |
 | DD de sauvegarde des sorts de clerc | **13** |
 | Initiative (don Vigilant) | **+3** |
 | Intuition | **+5** |
-| Jet de sauvegarde de Charisme | **+3** |
+| Jet de sauvegarde de Charisme | **+2** |
 | Jet de sauvegarde de Sagesse | **+5** |
-| Persuasion | **+3** |
+| Persuasion | **+2** |
 | Perception | **+5** |
 | Perception passive | **15** |
 | Vitesse | **9 m** |
@@ -158,7 +158,7 @@ La liste des autres sorts accessibles à Dorin figure dans le document [Sorts di
 | Menottes | Symbole sacré |
 | Tenue de voyage |  |
 
-**Armes renseignées sur la fiche du MJ :** fronde (**+3** à l’attaque, **1d4 + 1** dégâts contondants, propriété *Lente*) ; masse d’armes (**+3** à l’attaque, **1d6 + 1** dégâts contondants, propriété *Affaiblir*).
+**Armes (bonus recalculés avec les nouvelles caractéristiques) :** fronde (**+3** à l’attaque, **1d4 + 1** dégâts contondants, propriété *Lente*) ; masse d’armes (**+4** à l’attaque, **1d6 + 2** dégâts contondants, propriété *Affaiblir*).
 
 
 
